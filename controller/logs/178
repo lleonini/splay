@@ -1,0 +1,228 @@
+02:18:35.84 (4)  START_LOG
+02:18:35.87 (4)  SPLAYD LUA EXEC
+02:18:35.98 (4)  >> Job settings:
+02:18:35.98 (4)  Ref: fff8db9478d2fd72df65a67ee6b62f67
+02:18:35.98 (4)  Name: 
+02:18:35.98 (4)  Description: 
+02:18:35.98 (4)  Disk:
+02:18:35.98 (4)  	max 512 files
+02:18:35.98 (4)  	max 32 file descriptors
+02:18:35.98 (4)  	max 67108864 size in bytes
+02:18:35.98 (4)  Mem 8104033 bytes of memory
+02:18:35.98 (4)  Network:
+02:18:35.98 (4)  	max 134217728/134217728 send/receive bytes
+02:18:35.98 (4)  	max 32 tcp sockets
+02:18:35.98 (4)  	ip 127.0.0.1
+02:18:35.98 (4)  	ports 63706-63706
+02:18:35.98 (4)  
+02:18:35.99 (4)  >> Into sandbox !!!
+02:18:35.99 (4)  > Memory: 161 ko
+02:18:35.99 (4)  > Checking sandbox...
+02:18:35.99 (4)     > passed
+02:18:35.99 (4)  
+02:18:36.33 (4)  Tracker: http://torrent.ubuntu.com:6969/announce
+02:18:36.39 (4)  Total file size: 732989440
+02:18:36.41 (4)  Pieces size: 524288 (34816)
+02:18:36.51 (4)  Tracker interval: 1800 complete: 528 incomplete: 32
+02:18:36.51 (4)  91.83.14.198    37387
+02:18:36.51 (4)  70.38.12.69    6961
+02:18:36.51 (4)  76.29.160.102    35123
+02:18:36.51 (4)  67.160.43.214    37198
+02:18:36.51 (4)  99.227.85.156    11784
+02:18:36.51 (4)  89.179.242.64    32506
+02:18:36.51 (4)  94.194.133.68    52681
+02:18:36.51 (4)  87.185.181.157    27110
+02:18:36.51 (4)  83.38.184.182    50505
+02:18:36.51 (4)  151.49.163.117    42219
+02:18:36.51 (4)  66.108.199.237    54251
+02:18:36.51 (4)  88.65.82.4    9721
+02:18:36.51 (4)  212.21.120.10    58004
+02:18:36.51 (4)  88.8.166.205    25601
+02:18:36.51 (4)  78.51.99.39    37749
+02:18:36.51 (4)  129.93.140.18    43182
+02:18:36.51 (4)  65.31.56.251    6881
+02:18:36.51 (4)  83.165.251.15    23413
+02:18:36.51 (4)  77.109.106.66    19678
+02:18:36.51 (4)  62.75.221.125    49656
+02:18:36.51 (4)  98.224.98.19    49157
+02:18:36.51 (4)  201.52.41.3    51001
+02:18:36.51 (4)  60.242.5.228    7505
+02:18:36.51 (4)  78.52.3.217    6346
+02:18:36.51 (4)  80.100.34.24    51414
+02:18:36.51 (4)  83.165.241.20    60171
+02:18:36.51 (4)  87.167.102.174    6882
+02:18:36.51 (4)  66.240.197.232    49832
+02:18:36.51 (4)  84.62.18.31    45678
+02:18:36.51 (4)  76.102.7.64    46123
+02:18:36.51 (4)  69.255.91.211    30171
+02:18:36.51 (4)  131.191.84.209    62582
+02:18:36.51 (4)  173.71.51.31    52255
+02:18:36.51 (4)  76.102.217.35    27906
+02:18:36.52 (4)  190.82.240.156    6881
+02:18:36.52 (4)  24.206.104.96    51413
+02:18:36.52 (4)  88.182.134.251    28882
+02:18:36.52 (4)  74.140.241.239    6881
+02:18:36.52 (4)  190.189.108.79    33442
+02:18:36.52 (4)  217.155.173.133    22477
+02:18:36.52 (4)  217.95.21.181    6882
+02:18:36.52 (4)  86.101.51.232    6881
+02:18:36.52 (4)  89.222.166.43    46000
+02:18:36.52 (4)  69.247.169.70    59897
+02:18:36.52 (4)  195.140.171.174    10101
+02:18:36.52 (4)  66.177.65.173    10373
+02:18:36.52 (4)  24.86.111.154    36517
+02:18:36.52 (4)  190.74.179.174    42252
+02:18:36.52 (4)  86.136.84.118    49152
+02:18:36.52 (4)  190.19.119.36    26432
+02:18:51.51 (4)  
+02:18:51.51 (4)  #### Summary (mem: 2178ko) ###
+02:18:51.51 (4)  Connected to: (2)
+02:18:51.51 (4)      76.102.217.35:27906 unchoked (475136-0)
+02:18:51.51 (4)      65.31.56.251:6881 unchoked (0-0)
+02:18:51.51 (4)  Downloading:
+02:18:51.51 (4)      Block 511 90.625%
+02:18:51.52 (4)  Blocks completed 0 / 1399
+02:18:51.52 (4)  Bytes received: 475136
+02:18:51.52 (4)  Bytes sent: 0
+02:18:51.52 (4)  
+02:19:06.51 (4)  
+02:19:06.51 (4)  #### Summary (mem: 1399ko) ###
+02:19:06.51 (4)  Connected to: (5)
+02:19:06.51 (4)      24.86.111.154:36517 unchoked (114688-0)
+02:19:06.51 (4)      217.155.173.133:22477 unchoked (0-0)
+02:19:06.51 (4)      76.102.217.35:27906 unchoked (1310720-0)
+02:19:06.51 (4)      65.31.56.251:6881 unchoked (65536-0)
+02:19:06.51 (4)      60.242.5.228:7505 choked (0-0)
+02:19:06.51 (4)  Downloading:
+02:19:06.51 (4)      Block 640 21.875%
+02:19:06.51 (4)      Block 868 12.5%
+02:19:06.51 (4)      Block 936 50%
+02:19:06.52 (4)  Blocks completed 2 / 1399
+02:19:06.52 (4)  Bytes received: 1490944
+02:19:06.52 (4)  Bytes sent: 0
+02:19:06.52 (4)  
+02:19:21.52 (4)  
+02:19:21.52 (4)  #### Summary (mem: 2211ko) ###
+02:19:21.53 (4)  Connected to: (7)
+02:19:21.53 (4)      24.86.111.154:36517 unchoked (262144-0)
+02:19:21.53 (4)      190.82.240.156:6881 choked (0-0)
+02:19:21.53 (4)      217.155.173.133:22477 unchoked (0-0)
+02:19:21.53 (4)      76.102.217.35:27906 unchoked (2146304-0)
+02:19:21.53 (4)      65.31.56.251:6881 unchoked (131072-0)
+02:19:21.53 (4)      190.74.179.174:42252 unchoked (0-0)
+02:19:21.53 (4)      60.242.5.228:7505 choked (0-0)
+02:19:21.53 (4)  Downloading:
+02:19:21.53 (4)      Block 507 9.375%
+02:19:21.53 (4)      Block 640 50%
+02:19:21.53 (4)      Block 868 25%
+02:19:21.53 (4)  Blocks completed 4 / 1399
+02:19:21.53 (4)  Bytes received: 2539520
+02:19:21.53 (4)  Bytes sent: 0
+02:19:21.53 (4)  
+02:19:36.51 (4)  
+02:19:36.51 (4)  #### Summary (mem: 4246ko) ###
+02:19:36.52 (4)  Connected to: (9)
+02:19:36.52 (4)      65.31.56.251:6881 unchoked (196608-0)
+02:19:36.52 (4)      80.100.34.24:51414 unchoked (0-0)
+02:19:36.52 (4)      190.82.240.156:6881 choked (0-0)
+02:19:36.52 (4)      24.86.111.154:36517 unchoked (425984-0)
+02:19:36.52 (4)      60.242.5.228:7505 choked (0-0)
+02:19:36.52 (4)      76.102.217.35:27906 unchoked (3031040-0)
+02:19:36.52 (4)      190.189.108.79:33442 choked (0-0)
+02:19:36.52 (4)      190.74.179.174:42252 unchoked (65536-0)
+02:19:36.52 (4)      217.155.173.133:22477 unchoked (16384-0)
+02:19:36.52 (4)  Downloading:
+02:19:36.52 (4)      Block 449 12.5%
+02:19:36.52 (4)      Block 640 81.25%
+02:19:36.52 (4)      Block 868 37.5%
+02:19:36.52 (4)      Block 959 78.125%
+02:19:36.52 (4)      Block 1362 3.125%
+02:19:36.52 (4)  Blocks completed 5 / 1399
+02:19:36.52 (4)  Bytes received: 3735552
+02:19:36.52 (4)  Bytes sent: 0
+02:19:36.52 (4)  
+02:19:40.58 (4)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:19:41.52 (4)  [splay.events] E: Coroutine internal error: ...erso/doctorat/apps/share/splay/restricted_socket.lua:192: attempt to call field '?' (a nil value)
+02:19:51.52 (4)  
+02:19:51.52 (4)  #### Summary (mem: 2225ko) ###
+02:19:51.52 (4)  Connected to: (10)
+02:19:51.52 (4)      78.52.3.217:6346 unchoked (0-0)
+02:19:51.52 (4)      65.31.56.251:6881 unchoked (262144-0)
+02:19:51.52 (4)      80.100.34.24:51414 unchoked (16384-0)
+02:19:51.52 (4)      190.82.240.156:6881 choked (0-0)
+02:19:51.52 (4)      24.86.111.154:36517 unchoked (589824-0)
+02:19:51.52 (4)      60.242.5.228:7505 choked (0-0)
+02:19:51.52 (4)      76.102.217.35:27906 unchoked (3817472-0)
+02:19:51.52 (4)      190.189.108.79:33442 choked (0-0)
+02:19:51.52 (4)      190.74.179.174:42252 unchoked (131072-0)
+02:19:51.52 (4)      217.155.173.133:22477 unchoked (16384-0)
+02:19:51.52 (4)  Downloading:
+02:19:51.52 (4)      Block 449 25%
+02:19:51.52 (4)      Block 815 12.5%
+02:19:51.52 (4)      Block 868 50%
+02:19:51.52 (4)      Block 1116 3.125%
+02:19:51.52 (4)      Block 1362 3.125%
+02:19:51.53 (4)      Block 1396 28.125%
+02:19:51.53 (4)  Blocks completed 8 / 1399
+02:19:51.53 (4)  Bytes received: 4833280
+02:19:51.53 (4)  Bytes sent: 0
+02:19:51.53 (4)  
+02:19:51.53 (4)  [splay.events] E: Coroutine internal error: ...erso/doctorat/apps/share/splay/restricted_socket.lua:192: attempt to call field '?' (a nil value)
+02:20:01.60 (4)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:20:01.60 (4)  W: Transmission problem with 190.82.240.156:6881
+02:20:06.52 (4)  
+02:20:06.52 (4)  #### Summary (mem: 2630ko) ###
+02:20:06.52 (4)  Connected to: (10)
+02:20:06.52 (4)      78.52.3.217:6346 unchoked (0-0)
+02:20:06.52 (4)      65.31.56.251:6881 unchoked (327680-0)
+02:20:06.52 (4)      80.100.34.24:51414 unchoked (32768-0)
+02:20:06.52 (4)      190.82.240.156:6881 choked (0-0)
+02:20:06.52 (4)      24.86.111.154:36517 unchoked (720896-0)
+02:20:06.52 (4)      60.242.5.228:7505 choked (0-0)
+02:20:06.52 (4)      76.102.217.35:27906 unchoked (4620288-0)
+02:20:06.52 (4)      190.189.108.79:33442 unchoked (0-0)
+02:20:06.52 (4)      190.74.179.174:42252 unchoked (196608-0)
+02:20:06.52 (4)      217.155.173.133:22477 unchoked (32768-0)
+02:20:06.52 (4)  Downloading:
+02:20:06.52 (4)      Block 449 37.5%
+02:20:06.52 (4)      Block 815 37.5%
+02:20:06.52 (4)      Block 868 62.5%
+02:20:06.52 (4)      Block 1116 6.25%
+02:20:06.52 (4)      Block 1280 81.25%
+02:20:06.52 (4)      Block 1362 6.25%
+02:20:06.52 (4)  Blocks completed 9 / 1399
+02:20:06.52 (4)  Bytes received: 5931008
+02:20:06.52 (4)  Bytes sent: 0
+02:20:06.52 (4)  
+02:20:08.03 (4)  [splay.restricted_socket] W: Send restricted (total: 163807302)
+02:20:08.03 (4)  [splay.restricted_socket] W: Send restricted (total: 163807302)
+02:20:08.03 (4)  [splay.restricted_socket] W: Send restricted (total: 163807302)
+02:20:08.03 (4)  [splay.restricted_socket] W: Send restricted (total: 163807302)
+02:20:08.03 (4)  [splay.restricted_socket] W: Send restricted (total: 163807302)
+02:20:08.03 (4)  [splay.restricted_socket] W: Send restricted (total: 163807302)
+02:20:08.04 (4)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:20:08.04 (4)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:20:08.04 (4)  W: Transmission problem with 60.242.5.228:7505
+02:20:08.04 (4)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:20:08.04 (4)  W: Transmission problem with 24.86.111.154:36517
+02:20:08.04 (4)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:20:08.04 (4)  W: Transmission problem with 76.102.217.35:27906
+02:20:08.04 (4)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:20:08.04 (4)  W: Transmission problem with 190.74.179.174:42252
+02:20:08.04 (4)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:20:08.04 (4)  W: Transmission problem with 190.189.108.79:33442
+02:20:08.04 (4)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:20:08.04 (4)  W: Transmission problem with 80.100.34.24:51414
+02:20:08.04 (4)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:20:08.04 (4)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:20:08.04 (4)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:20:08.04 (4)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:20:08.04 (4)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:20:08.04 (4)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:20:10.94 (4)  [splay.restricted_socket] W: Send restricted (total: 163807302)
+02:20:10.94 (4)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:20:10.94 (4)  W: Transmission problem with 65.31.56.251:6881
+02:20:10.95 (4)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:20:11.75 (4)  [splay.restricted_socket] W: Send restricted (total: 163807302)
+02:20:11.75 (4)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:20:12.41 (4)  END_LOG

@@ -1,0 +1,60 @@
+18:27:51.60 (2)  START_LOG
+18:27:51.60 (2)  SPLAYD LUA EXEC
+18:27:51.60 (2)  >> Job settings:
+18:27:51.61 (2)  Ref: ffe520a08da8d029052a0f6570c40b6c
+18:27:51.61 (2)  Name: 
+18:27:51.61 (2)  Description: 
+18:27:51.61 (2)  Disk:
+18:27:51.61 (2)  	max 512 files
+18:27:51.61 (2)  	max 32 file descriptors
+18:27:51.61 (2)  	max 67108864 size in bytes
+18:27:51.61 (2)  Mem 2097152 bytes of memory
+18:27:51.61 (2)  Network:
+18:27:51.61 (2)  	max 134217728/134217728 send/receive bytes
+18:27:51.61 (2)  	max 32 tcp sockets
+18:27:51.61 (2)  	ip 127.0.0.1
+18:27:51.61 (2)  	ports 30291-30291
+18:27:51.61 (2)  
+18:27:51.67 (2)  >> Into sandbox !!!
+18:27:51.67 (2)  > Memory: 146 ko
+18:27:51.67 (2)  > Checking sandbox...
+18:27:51.67 (2)     > passed
+18:27:51.67 (2)  
+18:27:51.69 (2)  server    thread: 0x999e6a0
+18:27:51.99 (1)  START_LOG
+18:27:52.03 (1)  SPLAYD LUA EXEC
+18:27:52.03 (1)  >> Job settings:
+18:27:52.03 (1)  Ref: ffe520a08da8d029052a0f6570c40b6c
+18:27:52.03 (1)  Name: 
+18:27:52.03 (1)  Description: 
+18:27:52.03 (1)  Disk:
+18:27:52.03 (1)  	max 512 files
+18:27:52.03 (1)  	max 32 file descriptors
+18:27:52.03 (1)  	max 67108864 size in bytes
+18:27:52.03 (1)  Mem 2097152 bytes of memory
+18:27:52.03 (1)  Network:
+18:27:52.03 (1)  	max 134217728/134217728 send/receive bytes
+18:27:52.03 (1)  	max 32 tcp sockets
+18:27:52.03 (1)  	ip 127.0.0.1
+18:27:52.03 (1)  	ports 28303-28303
+18:27:52.03 (1)  
+18:27:52.04 (1)  >> Into sandbox !!!
+18:27:52.04 (1)  > Memory: 146 ko
+18:27:52.04 (1)  > Checking sandbox...
+18:27:52.04 (1)     > passed
+18:27:52.04 (1)  
+18:27:52.05 (1)  server    thread: 0x8499570
+18:27:56.70 (2)  I'm 127.0.0.1:30291
+18:27:56.70 (2)  My position in the list is: 2
+18:27:56.70 (2)  List type is 'head' with 2 nodes
+18:27:56.70 (2)  ### I am calling node 127.0.0.1:28303
+18:27:56.70 (2)  
+18:27:56.76 (1)  I received an RPC from node 2
+18:27:57.05 (1)  I'm 127.0.0.1:28303
+18:27:57.05 (1)  My position in the list is: 1
+18:27:57.05 (1)  List type is 'head' with 2 nodes
+18:27:57.05 (1)  ### I am calling node 127.0.0.1:28303
+18:27:57.05 (1)  I received an RPC from node 1
+18:27:57.05 (1)  
+18:28:01.70 (2)  END_LOG
+18:28:02.08 (1)  END_LOG

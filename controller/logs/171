@@ -1,0 +1,28 @@
+23:37:00.42 (4)  START_LOG
+23:37:00.45 (4)  SPLAYD LUA EXEC
+23:37:00.47 (4)  >> Job settings:
+23:37:00.47 (4)  Ref: 5637235dd21674d6197f5ac09fbdcb5a
+23:37:00.47 (4)  Name: 
+23:37:00.47 (4)  Description: 
+23:37:00.47 (4)  Disk:
+23:37:00.47 (4)  	max 512 files
+23:37:00.47 (4)  	max 32 file descriptors
+23:37:00.47 (4)  	max 67108864 size in bytes
+23:37:00.47 (4)  Mem 2097152 bytes of memory
+23:37:00.47 (4)  Network:
+23:37:00.47 (4)  	max 134217728/134217728 send/receive bytes
+23:37:00.47 (4)  	max 32 tcp sockets
+23:37:00.47 (4)  	ip 127.0.0.1
+23:37:00.47 (4)  	ports 48803-48803
+23:37:00.47 (4)  
+23:37:00.48 (4)  >> Into sandbox !!!
+23:37:00.48 (4)  > Memory: 144 ko
+23:37:00.48 (4)  > Checking sandbox...
+23:37:00.48 (4)     > passed
+23:37:00.48 (4)  
+23:37:00.49 (4)  I'm 127.0.0.1:48803
+23:37:00.49 (4)  My position in the list is: 1
+23:37:00.49 (4)  List type is 'head' with 1 nodes
+23:37:05.49 (4)  I received an RPC from node 1
+23:37:05.49 (4)  Bye bye
+23:37:10.49 (4)  END_LOG

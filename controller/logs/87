@@ -1,0 +1,56 @@
+12:20:50.10 (2)  START_LOG
+12:20:50.13 (2)  >> Job settings:
+12:20:50.13 (2)  Ref: c798f75bf0eb6bb7dd1e7402917a3d2f
+12:20:50.13 (2)  Name: 
+12:20:50.13 (2)  Description: 
+12:20:50.13 (2)  Disk:
+12:20:50.13 (2)  	max 512 files
+12:20:50.13 (2)  	max 32 file descriptors
+12:20:50.13 (2)  	max 67108864 size in bytes
+12:20:50.13 (2)  Mem 2097152 bytes of memory
+12:20:50.13 (2)  Network:
+12:20:50.13 (2)  	max 134217728/134217728 send/receive bytes
+12:20:50.13 (2)  	max 32 tcp sockets
+12:20:50.13 (2)  	ip 127.0.0.1
+12:20:50.13 (2)  	ports 38467-38467
+12:20:50.13 (2)  
+12:20:50.14 (2)  >> Into sandbox !!!
+12:20:50.14 (2)  > Memory: 131 ko
+12:20:50.14 (2)  > Checking sandbox...
+12:20:50.14 (2)     > passed
+12:20:50.14 (2)  
+12:20:50.14 (2)  START
+12:20:50.14 (2)  > Job list
+12:20:50.14 (2)  My position is: 2
+12:20:50.15 (2)  > All jobs list:
+12:20:50.15 (2)  [splay.events] E: Coroutine internal error: [string "job code"]:18: attempt to concatenate field 'end_port' (a nil value)
+12:20:50.15 (2)  End of jobd (C deamon)
+12:20:50.15 (2)  END_LOG
+12:20:50.30 (1)  START_LOG
+12:20:50.30 (1)  >> Job settings:
+12:20:50.30 (1)  Ref: c798f75bf0eb6bb7dd1e7402917a3d2f
+12:20:50.30 (1)  Name: 
+12:20:50.30 (1)  Description: 
+12:20:50.30 (1)  Disk:
+12:20:50.30 (1)  	max 512 files
+12:20:50.30 (1)  	max 32 file descriptors
+12:20:50.30 (1)  	max 67108864 size in bytes
+12:20:50.30 (1)  Mem 2097152 bytes of memory
+12:20:50.30 (1)  Network:
+12:20:50.30 (1)  	max 134217728/134217728 send/receive bytes
+12:20:50.30 (1)  	max 32 tcp sockets
+12:20:50.30 (1)  	ip 127.0.0.1
+12:20:50.30 (1)  	ports 56622-56622
+12:20:50.30 (1)  
+12:20:50.30 (1)  >> Into sandbox !!!
+12:20:50.30 (1)  > Memory: 131 ko
+12:20:50.30 (1)  > Checking sandbox...
+12:20:50.30 (1)     > passed
+12:20:50.30 (1)  
+12:20:50.30 (1)  START
+12:20:50.31 (1)  > Job list
+12:20:50.31 (1)  My position is: 1
+12:20:50.31 (1)  > All jobs list:
+12:20:50.31 (1)  [splay.events] E: Coroutine internal error: [string "job code"]:18: attempt to concatenate field 'end_port' (a nil value)
+12:20:50.31 (1)  End of jobd (C deamon)
+12:20:50.31 (1)  END_LOG

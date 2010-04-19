@@ -1,0 +1,31 @@
+22:59:37.48 (1)  >> Job settings:
+22:59:37.48 (1)  Ref: 185167766137af6980168f2c8dbc4304
+22:59:37.49 (1)  Name: 
+22:59:37.49 (1)  Description: 
+22:59:37.49 (1)  Disk:
+22:59:37.49 (1)  	max 512 files
+22:59:37.49 (1)  	max 32 file descriptors
+22:59:37.49 (1)  	max 67108864 size in octets
+22:59:37.49 (1)  Mem 2097152 octets of memory
+22:59:37.49 (1)  Network:
+22:59:37.49 (1)  	max 134217728/134217728 send/receive octets
+22:59:37.49 (1)  	max 32 tcp sockets
+22:59:37.49 (1)  	ip 127.0.0.1
+22:59:37.49 (1)  	ports 55436-55436
+22:59:37.49 (1)  Log:
+22:59:37.49 (1)  	localhost:11100 max: 32768
+22:59:37.49 (1)  No blacklist
+22:59:37.49 (1)  
+22:59:37.49 (1)  >> Into sandbox !!!
+22:59:37.49 (1)  > Memory: 131 ko
+22:59:37.49 (1)  > Checking sandbox...
+22:59:37.49 (1)     > passed
+22:59:37.49 (1)  
+22:59:37.49 (1)  Error loading code:	[string "job code"]:1: unfinished string near '"scds'
+22:59:37.49 (1)  End of jobd (C deamon)
+22:01:39.24 (10)  START_LOG
+22:01:39.27 (10)  SPLAYD SCRIPT EXEC
+22:01:39.27 (10)  IP: localhost
+22:01:39.27 (10)  Port: 11100
+22:01:39.27 (10)  Infos (json encoded): hello world
+22:01:39.27 (10)  END_LOG

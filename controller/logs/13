@@ -1,0 +1,45 @@
+22:46:35.81 (1)  >> Job settings:
+22:46:35.81 (1)  Ref: 461011dd89cb5ac7e4fa265be8815c1f
+22:46:35.81 (1)  Name: 
+22:46:35.81 (1)  Description: 
+22:46:35.81 (1)  Disk:
+22:46:35.81 (1)  	max 512 files
+22:46:35.81 (1)  	max 32 file descriptors
+22:46:35.81 (1)  	max 67108864 size in octets
+22:46:35.81 (1)  Mem 2097152 octets of memory
+22:46:35.81 (1)  Network:
+22:46:35.81 (1)  	max 134217728/134217728 send/receive octets
+22:46:35.81 (1)  	max 32 tcp sockets
+22:46:35.81 (1)  	ip 127.0.0.1
+22:46:35.81 (1)  	ports 37870-37870
+22:46:35.81 (1)  No blacklist
+22:46:35.81 (1)  
+22:46:35.81 (1)  >> Into sandbox !!!
+22:46:35.81 (1)  > Memory: 131 ko
+22:46:35.81 (1)  > Checking sandbox...
+22:46:35.81 (1)     > passed
+22:46:35.81 (1)  
+22:46:35.81 (1)  Error loading code:	[string "job code"]:1: unfinished string near '"scds'
+22:46:35.81 (1)  End of jobd (C deamon)
+21:56:52.66 (9)  START_LOG
+21:56:52.67 (9)  SPLAYD SCRIPT EXEC
+21:56:52.67 (9)  localhost 11100 {"udp_drop_ratio":"0.00","nb_ports":1,"max_sockets":32,"list":{"nodes":[{"port":27113,"ip":"127.0.0.1"}],"type":"head","position":1},"max_send":134217728,"max_receive":134217728,"ip":"127.0.0.1"}
+21:56:52.67 (9)  hella
+21:56:53.62 (9)  hella
+21:56:54.62 (9)  hella
+21:56:55.63 (9)  hella
+21:56:56.63 (9)  hella
+21:56:57.67 (9)  hella
+21:56:58.64 (9)  hella
+21:56:59.66 (9)  hella
+21:57:00.66 (9)  hella
+21:57:01.68 (9)  hella
+21:57:02.68 (9)  hella
+21:57:03.68 (9)  hella
+21:57:04.68 (9)  hella
+21:57:05.70 (9)  hella
+21:57:06.70 (9)  hella
+21:57:07.75 (9)  hella
+21:57:08.72 (9)  hella
+21:57:09.72 (9)  hella
+21:57:10.12 (9)  END_LOG

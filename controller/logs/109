@@ -1,0 +1,27 @@
+15:13:44.66 (1)  START_LOG
+15:13:44.70 (1)  >> Job settings:
+15:13:44.70 (1)  Ref: f97198f33947dc0b1625299ce9dbddf0
+15:13:44.70 (1)  Name: 
+15:13:44.70 (1)  Description: 
+15:13:44.70 (1)  Disk:
+15:13:44.70 (1)  	max 512 files
+15:13:44.70 (1)  	max 32 file descriptors
+15:13:44.70 (1)  	max 67108864 size in bytes
+15:13:44.70 (1)  Mem 2097152 bytes of memory
+15:13:44.70 (1)  Network:
+15:13:44.70 (1)  	max 134217728/134217728 send/receive bytes
+15:13:44.70 (1)  	max 32 tcp sockets
+15:13:44.70 (1)  	ip 127.0.0.1
+15:13:44.70 (1)  	ports 17452-17453
+15:13:44.70 (1)  
+15:13:44.73 (1)  >> Into sandbox !!!
+15:13:44.73 (1)  > Memory: 136 ko
+15:13:44.73 (1)  > Checking sandbox...
+15:13:44.73 (1)     > passed
+15:13:44.73 (1)  
+15:13:44.83 (1)  OK
+15:13:44.83 (1)  OK
+15:13:44.86 (1)  OK
+15:13:44.86 (1)  OK
+15:13:44.86 (1)  [splay.events] E: Coroutine internal error: [string "job code"]:86: attempt to index local 'c' (a nil value)
+15:14:53.44 (1)  END_LOG

@@ -1,0 +1,207 @@
+09:50:38.16 (1)  START_LOG
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(48) is called
+09:50:38.16 (1)  malloc(48) is called
+09:50:38.16 (1)  malloc(36) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(49) is called
+09:50:38.16 (1)  malloc(49) is called
+09:50:38.16 (1)  malloc(28) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  >> Job settings:
+09:50:38.16 (1)  Ref: 5f29b8d1a2354112b2e580d50359e0be
+09:50:38.16 (1)  Name: 
+09:50:38.16 (1)  Description: 
+09:50:38.16 (1)  Disk:
+09:50:38.16 (1)  	max 512 files
+09:50:38.16 (1)  	max 32 file descriptors
+09:50:38.16 (1)  	max 67108864 size in bytes
+09:50:38.16 (1)  Mem 2097152 bytes of memory
+09:50:38.16 (1)  Network:
+09:50:38.16 (1)  	max 134217728/134217728 send/receive bytes
+09:50:38.16 (1)  	max 32 tcp sockets
+09:50:38.16 (1)  	ip 127.0.0.1
+09:50:38.16 (1)  	ports 42920-42920
+09:50:38.16 (1)  
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(352) is called
+09:50:38.16 (1)  malloc(44) is called
+09:50:38.16 (1)  malloc(44) is called
+09:50:38.16 (1)  malloc(38) is called
+09:50:38.16 (1)  malloc(38) is called
+09:50:38.16 (1)  malloc(35) is called
+09:50:38.16 (1)  malloc(35) is called
+09:50:38.16 (1)  malloc(19) is called
+09:50:38.16 (1)  malloc(19) is called
+09:50:38.16 (1)  malloc(36) is called
+09:50:38.16 (1)  malloc(44) is called
+09:50:38.16 (1)  malloc(20) is called
+09:50:38.16 (1)  malloc(60) is called
+09:50:38.16 (1)  malloc(96) is called
+09:50:38.16 (1)  malloc(64) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.16 (1)  malloc(12) is called
+09:50:38.16 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(16) is called
+09:50:38.17 (1)  malloc(12) is called
+09:50:38.17 (1)  malloc(352) is called
+09:50:38.17 (1)  malloc(352) is called
+09:50:38.17 (1)  malloc(352) is called
+09:50:38.17 (1)  malloc(352) is called
+09:50:38.17 (1)  malloc(53) is called
+09:50:38.17 (1)  malloc(53) is called
+09:50:38.17 (1)  malloc(36) is called
+09:50:38.17 (1)  malloc(352) is called
+09:50:38.18 (1)  >> Into sandbox !!!
+09:50:38.18 (1)  > Memory: 130 ko
+09:50:38.18 (1)  > Checking sandbox...
+09:50:38.18 (1)     > passed
+09:50:38.18 (1)  
+09:50:38.18 (1)  malloc(352) is called
+09:50:38.18 (1)  malloc(352) is called
+09:50:38.18 (1)  malloc(352) is called
+09:50:38.18 (1)  malloc(352) is called
+09:50:38.18 (1)  malloc(352) is called
+09:50:38.18 (1)  malloc(352) is called
+09:50:38.18 (1)  malloc(352) is called
+09:50:38.18 (1)  malloc(352) is called
+09:50:38.18 (1)  malloc(352) is called
+09:50:38.18 (1)  malloc(352) is called
+09:50:38.19 (1)  96
+09:50:39.19 (1)  192
+09:50:40.19 (1)  384
+09:50:41.19 (1)  768
+09:50:42.19 (1)  1536
+09:50:43.19 (1)  3072
+09:50:44.19 (1)  6144
+09:50:45.20 (1)  12288
+09:50:46.19 (1)  24576
+09:50:47.19 (1)  49152
+09:50:48.19 (1)  98304
+09:50:49.19 (1)  196608
+09:50:50.19 (1)  393216
+09:50:51.20 (1)  Too much memory used: wants 2348398 (max: 2097152), end of process.
+09:50:51.20 (1)  END_LOG

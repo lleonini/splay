@@ -1,0 +1,23 @@
+10:45:25.34 (1)  >> Job settings:
+10:45:25.34 (1)  Ref: cd03c70d2f50d3595ade35422a6e863c
+10:45:25.34 (1)  Name: 
+10:45:25.34 (1)  Description: 
+10:45:25.34 (1)  Disk:
+10:45:25.34 (1)  	max 512 files
+10:45:25.34 (1)  	max 32 file descriptors
+10:45:25.34 (1)  	max 67108864 size in octets
+10:45:25.34 (1)  Mem 2097152 octets of memory
+10:45:25.34 (1)  Network:
+10:45:25.34 (1)  	max 134217728/134217728 send/receive octets
+10:45:25.34 (1)  	max 32 tcp sockets
+10:45:25.34 (1)  	ip 127.0.0.1
+10:45:25.34 (1)  	ports 40514-40514
+10:45:25.34 (1)  
+10:45:25.34 (1)  >> Into sandbox !!!
+10:45:25.34 (1)  > Memory: 130 ko
+10:45:25.34 (1)  > Checking sandbox...
+10:45:25.34 (1)     > passed
+10:45:25.34 (1)  
+10:45:25.34 (1)  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+10:45:25.34 (1)  C daemon: [string "job code"]:3: attempt to index global 'events' (a nil value)
+10:45:25.34 (1)  End of jobd (C deamon)

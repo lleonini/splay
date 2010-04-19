@@ -1,0 +1,87 @@
+15:20:19.51 (1)  START_LOG
+15:20:19.55 (1)  >> Job settings:
+15:20:19.55 (1)  Ref: 63e9867c58b1f92f9ed33cc685418dcb
+15:20:19.55 (1)  Name: 
+15:20:19.56 (1)  Description: 
+15:20:19.56 (1)  Disk:
+15:20:19.56 (1)  	max 512 files
+15:20:19.56 (1)  	max 32 file descriptors
+15:20:19.56 (1)  	max 67108864 size in bytes
+15:20:19.56 (1)  Mem 2097152 bytes of memory
+15:20:19.56 (1)  Network:
+15:20:19.56 (1)  	max 134217728/134217728 send/receive bytes
+15:20:19.56 (1)  	max 32 tcp sockets
+15:20:19.56 (1)  	ip 127.0.0.1
+15:20:19.56 (1)  	ports 16941-16941
+15:20:19.56 (1)  
+15:20:19.56 (1)  >> Into sandbox !!!
+15:20:19.57 (1)  > Memory: 139 ko
+15:20:19.57 (1)  > Checking sandbox...
+15:20:19.57 (1)     > passed
+15:20:19.57 (1)  
+15:20:19.57 (1)  >> Splay test script
+15:20:19.57 (1)  
+15:20:19.57 (1)  Memory: 191 ko
+15:20:19.57 (1)  Lua 5.1
+15:20:19.57 (1)  Splayd v.0.904
+15:20:19.57 (1)  
+15:20:19.57 (1)  > Test 0: packages
+15:20:19.57 (1)  
+15:20:19.57 (1)  > Test 1: strings
+15:20:19.57 (1)  Visual test to see if json encoded file transfer has not corrupted the file.)
+15:20:19.57 (1)  \ line one 
+15:20:19.57 (1)  line two 
+15:20:19.57 (1)  a pseudo json utf-16 char: \u4141
+15:20:19.57 (1)  
+15:20:19.57 (1)  > Test 2: Global vars that must NOT exists
+15:20:19.57 (1)  ERROR:	nil	nil	nil	nil	nil	nil	nil	nil	nil	nil
+15:20:19.57 (1)  
+15:20:19.57 (1)  > Test 3: Script arguments:
+15:20:19.57 (1)  No command line arguments, maybe we are bytecode Lua.
+15:20:19.57 (1)  
+15:20:19.57 (1)  > Test 4: Restricted sockets
+15:20:19.57 (1)  #SE: #RS: table: 0x8a55330
+15:20:19.57 (1)  Total send: 0 (max: 134217728)
+15:20:19.57 (1)  Total receive: 0 (max: 134217728)
+15:20:19.57 (1)  Total TCP sockets: 0 (max: 32)
+15:20:19.57 (1)  Total UDP sockets: 0 (max: 32)
+15:20:19.57 (1)  Ports: 16941-16941
+15:20:19.57 (1)  No blacklist
+15:20:19.57 (1)  Local IP: unknown
+15:20:19.57 (1)  
+15:20:19.57 (1)  
+15:20:19.57 (1)  > Test 5: job list:
+15:20:19.57 (1)  OK: my position is: 1
+15:20:19.57 (1)  > me: 127.0.0.1:16941
+15:20:19.57 (1)  > list type: head (size: 1)
+15:20:19.57 (1)  > All jobs list:
+15:20:19.57 (1)  	1 ip: 127.0.0.1:16941
+15:20:19.57 (1)  
+15:20:19.57 (1)  > Test 6: Restricted IO:
+15:20:19.57 (1)  OK: restricted IO.
+15:20:19.57 (1)  Total files: 0 (max: 512)
+15:20:19.57 (1)  Total size: 0 (max: 67108864)
+15:20:19.57 (1)  Total file descriptors: 0 (max: 32)
+15:20:19.57 (1)  OK: restricted IO initialized.
+15:20:19.57 (1)  
+15:20:19.59 (1)  > Test 7: Misc:
+15:20:19.59 (1)  1226240419.5669	1226240419
+15:20:19.59 (1)  OK: misc loaded.
+15:20:19.59 (1)  
+15:20:19.59 (1)  > Test 8: RPCs:
+15:20:19.59 (1)  OK: RPC.
+15:20:19.59 (1)  
+15:20:19.59 (1)  > Test 9: Mem:
+15:20:19.59 (1)  Memory: 216 ko
+15:20:19.59 (1)  OK: memory allocation count.
+15:20:19.59 (1)  OK: memory deallocation.
+15:20:19.59 (1)  
+15:20:19.59 (1)  > Test 10: Log:
+15:20:19.59 (1)  W: Testing log with out
+15:20:19.59 (1)  
+15:20:19.59 (1)  ------------------------------------------------------
+15:20:19.59 (1)  CHECKS PROBLEM, verify the sandbox and initialization.
+15:20:19.59 (1)  ------------------------------------------------------
+15:20:19.59 (1)  
+15:20:19.59 (1)  Memory: 218 ko
+15:20:20.57 (1)  END_LOG

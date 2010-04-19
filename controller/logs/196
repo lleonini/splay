@@ -1,0 +1,636 @@
+03:38:29.66 (6)  START_LOG
+03:38:29.70 (6)  SPLAYD LUA EXEC
+03:38:29.81 (6)  >> Job settings:
+03:38:29.81 (6)  Ref: 2782ae5d5bb1f8ad630821d68f6cffa2
+03:38:29.81 (6)  Name: 
+03:38:29.81 (6)  Description: 
+03:38:29.82 (6)  Disk:
+03:38:29.82 (6)  	max 512 files
+03:38:29.82 (6)  	max 32 file descriptors
+03:38:29.82 (6)  	max 800000000 size in bytes
+03:38:29.82 (6)  Mem 10104033 bytes of memory
+03:38:29.82 (6)  Network:
+03:38:29.82 (6)  	max 134217728/134217728 send/receive bytes
+03:38:29.82 (6)  	max 32 tcp sockets
+03:38:29.82 (6)  	ip 127.0.0.1
+03:38:29.82 (6)  	ports 23147-23147
+03:38:29.82 (6)  
+03:38:29.83 (6)  >> Into sandbox !!!
+03:38:29.83 (6)  > Memory: 162 ko
+03:38:29.83 (6)  > Checking sandbox...
+03:38:29.83 (6)     > passed
+03:38:29.83 (6)  
+03:38:29.94 (6)  [splay.restricted_socket] >>>>>>>>>>>>    58    GET /8.10/ubuntu-8.1
+03:38:29.94 (6)  [splay.restricted_socket] >>>>-------    58    58    1    58
+03:38:29.94 (6)  [splay.restricted_socket] >>>>>>>>>>>>    95    host: releases.ubunt
+03:38:29.94 (6)  [splay.restricted_socket] >>>>-------    153    95    1    95
+03:38:30.16 (6)  Tracker: http://torrent.ubuntu.com:6969/announce
+03:38:30.16 (6)  Total file size: 732989440
+03:38:30.16 (6)  Pieces size: 524288 (34816)
+03:38:30.25 (6)  [splay.restricted_socket] >>>>>>>>>>>>    198    GET /announce?info_h
+03:38:30.25 (6)  [splay.restricted_socket] >>>>-------    351    198    1    198
+03:38:30.25 (6)  [splay.restricted_socket] >>>>>>>>>>>>    94    host: torrent.ubuntu
+03:38:30.25 (6)  [splay.restricted_socket] >>>>-------    445    94    1    94
+03:38:30.34 (6)  Tracker interval: 1800 complete: 276 incomplete: 17
+03:38:30.34 (6)  69.247.169.70    59897
+03:38:30.34 (6)  84.0.82.214    26318
+03:38:30.34 (6)  95.53.143.182    39323
+03:38:30.34 (6)  91.189.90.143    6896
+03:38:30.34 (6)  129.25.5.250    4568
+03:38:30.34 (6)  84.164.116.225    6882
+03:38:30.34 (6)  58.216.215.38    6882
+03:38:30.34 (6)  24.253.135.128    46649
+03:38:30.34 (6)  91.84.209.134    47449
+03:38:30.34 (6)  87.253.134.95    6978
+03:38:30.34 (6)  207.67.87.34    52176
+03:38:30.34 (6)  65.80.22.65    24515
+03:38:30.34 (6)  195.140.171.174    10101
+03:38:30.34 (6)  213.136.29.211    4563
+03:38:30.34 (6)  71.88.96.27    54336
+03:38:30.34 (6)  70.143.82.162    14972
+03:38:30.34 (6)  96.251.147.151    46000
+03:38:30.34 (6)  121.102.210.79    51413
+03:38:30.34 (6)  213.251.185.88    9087
+03:38:30.34 (6)  77.109.106.66    19678
+03:38:30.34 (6)  174.129.160.55    49206
+03:38:30.34 (6)  94.246.151.50    9090
+03:38:30.34 (6)  122.162.48.200    13287
+03:38:30.34 (6)  122.170.29.234    64556
+03:38:35.62 (6)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:38:35.62 (6)  [splay.restricted_socket] >>>>-------    513    68    1    68
+03:38:36.76 (6)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+03:38:40.38 (6)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:38:40.38 (6)  [splay.restricted_socket] >>>>-------    581    68    1    68
+03:38:40.42 (6)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:38:40.42 (6)  [splay.restricted_socket] >>>>-------    586    5    1    5
+03:38:40.42 (6)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:38:40.42 (6)  [splay.restricted_socket] >>>>-------    591    5    1    5
+03:38:45.34 (6)  Total send: 591 (max: 134217728)
+03:38:45.34 (6)  Total receive: 28984 (max: 134217728)
+03:38:45.34 (6)  Total TCP sockets: 2 (max: 32)
+03:38:45.34 (6)  Total UDP sockets: 0 (max: 32)
+03:38:45.34 (6)  Ports: 23147-23147
+03:38:45.34 (6)  No blacklist
+03:38:45.34 (6)  Local IP: unknown
+03:38:45.34 (6)  
+03:38:45.35 (6)  #### Summary (mem: 657ko) ###
+03:38:45.35 (6)  Connected to: (1)
+03:38:45.35 (6)      213.251.185.88:9087 choked (0-0)
+03:38:45.35 (6)  Downloading:
+03:38:45.35 (6)  Blocks completed 0 / 1399
+03:38:45.35 (6)  Bytes received: 0
+03:38:45.35 (6)  Bytes sent: 0
+03:38:45.35 (6)  
+03:38:45.49 (6)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:38:45.49 (6)  [splay.restricted_socket] >>>>-------    659    68    1    68
+03:38:45.64 (6)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:38:45.64 (6)  [splay.restricted_socket] >>>>-------    664    5    1    5
+03:38:45.65 (6)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:38:45.65 (6)  [splay.restricted_socket] >>>>-------    669    5    1    5
+03:38:46.99 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:46.99 (6)  [splay.restricted_socket] >>>>-------    686    17    1    17
+03:38:47.47 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:47.47 (6)  [splay.restricted_socket] >>>>-------    703    17    1    17
+03:38:47.77 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:47.77 (6)  [splay.restricted_socket] >>>>-------    720    17    1    17
+03:38:47.95 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:47.95 (6)  [splay.restricted_socket] >>>>-------    737    17    1    17
+03:38:48.13 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:48.13 (6)  [splay.restricted_socket] >>>>-------    754    17    1    17
+03:38:48.31 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:48.31 (6)  [splay.restricted_socket] >>>>-------    771    17    1    17
+03:38:48.49 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:48.49 (6)  [splay.restricted_socket] >>>>-------    788    17    1    17
+03:38:48.66 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:48.67 (6)  [splay.restricted_socket] >>>>-------    805    17    1    17
+03:38:48.85 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:48.85 (6)  [splay.restricted_socket] >>>>-------    822    17    1    17
+03:38:49.04 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:49.04 (6)  [splay.restricted_socket] >>>>-------    839    17    1    17
+03:38:49.21 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:49.21 (6)  [splay.restricted_socket] >>>>-------    856    17    1    17
+03:38:49.39 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:49.39 (6)  [splay.restricted_socket] >>>>-------    873    17    1    17
+03:38:49.57 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:49.58 (6)  [splay.restricted_socket] >>>>-------    890    17    1    17
+03:38:49.76 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:49.78 (6)  [splay.restricted_socket] >>>>-------    907    17    1    17
+03:38:49.94 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:49.94 (6)  [splay.restricted_socket] >>>>-------    924    17    1    17
+03:38:50.11 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:50.12 (6)  [splay.restricted_socket] >>>>-------    941    17    1    17
+03:38:50.31 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:50.31 (6)  [splay.restricted_socket] >>>>-------    958    17    1    17
+03:38:50.49 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:50.49 (6)  [splay.restricted_socket] >>>>-------    975    17    1    17
+03:38:50.66 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:50.67 (6)  [splay.restricted_socket] >>>>-------    992    17    1    17
+03:38:50.85 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:50.89 (6)  [splay.restricted_socket] >>>>-------    1009    17    1    17
+03:38:51.08 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:51.08 (6)  [splay.restricted_socket] >>>>-------    1026    17    1    17
+03:38:51.28 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:51.28 (6)  [splay.restricted_socket] >>>>-------    1043    17    1    17
+03:38:51.45 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:51.45 (6)  [splay.restricted_socket] >>>>-------    1060    17    1    17
+03:38:51.63 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:51.63 (6)  [splay.restricted_socket] >>>>-------    1077    17    1    17
+03:38:51.81 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:51.81 (6)  [splay.restricted_socket] >>>>-------    1094    17    1    17
+03:38:52.01 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:52.01 (6)  [splay.restricted_socket] >>>>-------    1111    17    1    17
+03:38:52.18 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:52.18 (6)  [splay.restricted_socket] >>>>-------    1128    17    1    17
+03:38:52.37 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:52.37 (6)  [splay.restricted_socket] >>>>-------    1145    17    1    17
+03:38:52.55 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:52.55 (6)  [splay.restricted_socket] >>>>-------    1162    17    1    17
+03:38:52.73 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:52.73 (6)  [splay.restricted_socket] >>>>-------    1179    17    1    17
+03:38:52.93 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:52.93 (6)  [splay.restricted_socket] >>>>-------    1196    17    1    17
+03:38:53.11 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:53.13 (6)  [splay.restricted_socket] >>>>-------    1213    17    1    17
+03:38:53.30 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:38:53.31 (6)  [splay.restricted_socket] >>>>-------    1222    9    1    9
+03:38:53.31 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:38:53.31 (6)  [splay.restricted_socket] >>>>-------    1231    9    1    9
+03:38:53.31 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:53.31 (6)  [splay.restricted_socket] >>>>-------    1248    17    1    17
+03:38:53.83 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:53.83 (6)  [splay.restricted_socket] >>>>-------    1265    17    1    17
+03:38:54.00 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:54.00 (6)  [splay.restricted_socket] >>>>-------    1282    17    1    17
+03:38:54.20 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:54.24 (6)  [splay.restricted_socket] >>>>-------    1299    17    1    17
+03:38:54.47 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:54.47 (6)  [splay.restricted_socket] >>>>-------    1316    17    1    17
+03:38:54.65 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:54.65 (6)  [splay.restricted_socket] >>>>-------    1333    17    1    17
+03:38:54.83 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:54.83 (6)  [splay.restricted_socket] >>>>-------    1350    17    1    17
+03:38:55.01 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:55.01 (6)  [splay.restricted_socket] >>>>-------    1367    17    1    17
+03:38:55.19 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:55.19 (6)  [splay.restricted_socket] >>>>-------    1384    17    1    17
+03:38:55.37 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:55.37 (6)  [splay.restricted_socket] >>>>-------    1401    17    1    17
+03:38:55.48 (6)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:38:55.48 (6)  [splay.restricted_socket] >>>>-------    1469    68    1    68
+03:38:55.55 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:55.55 (6)  [splay.restricted_socket] >>>>-------    1486    17    1    17
+03:38:55.68 (6)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:38:55.68 (6)  [splay.restricted_socket] >>>>-------    1491    5    1    5
+03:38:55.68 (6)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:38:55.69 (6)  [splay.restricted_socket] >>>>-------    1496    5    1    5
+03:38:55.74 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:55.74 (6)  [splay.restricted_socket] >>>>-------    1513    17    1    17
+03:38:55.92 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:55.92 (6)  [splay.restricted_socket] >>>>-------    1530    17    1    17
+03:38:56.09 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:56.09 (6)  [splay.restricted_socket] >>>>-------    1547    17    1    17
+03:38:56.30 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:56.30 (6)  [splay.restricted_socket] >>>>-------    1564    17    1    17
+03:38:56.48 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:56.49 (6)  [splay.restricted_socket] >>>>-------    1581    17    1    17
+03:38:56.69 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:56.69 (6)  [splay.restricted_socket] >>>>-------    1598    17    1    17
+03:38:56.89 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:56.89 (6)  [splay.restricted_socket] >>>>-------    1615    17    1    17
+03:38:57.07 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:57.07 (6)  [splay.restricted_socket] >>>>-------    1632    17    1    17
+03:38:57.24 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:57.24 (6)  [splay.restricted_socket] >>>>-------    1649    17    1    17
+03:38:57.44 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:57.44 (6)  [splay.restricted_socket] >>>>-------    1666    17    1    17
+03:38:57.63 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:57.64 (6)  [splay.restricted_socket] >>>>-------    1683    17    1    17
+03:38:57.86 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:57.89 (6)  [splay.restricted_socket] >>>>-------    1700    17    1    17
+03:38:58.01 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:58.02 (6)  [splay.restricted_socket] >>>>-------    1717    17    1    17
+03:38:58.19 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:58.19 (6)  [splay.restricted_socket] >>>>-------    1734    17    1    17
+03:38:58.37 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:58.37 (6)  [splay.restricted_socket] >>>>-------    1751    17    1    17
+03:38:58.56 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:58.56 (6)  [splay.restricted_socket] >>>>-------    1768    17    1    17
+03:38:58.74 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:58.74 (6)  [splay.restricted_socket] >>>>-------    1785    17    1    17
+03:38:58.93 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:58.94 (6)  [splay.restricted_socket] >>>>-------    1802    17    1    17
+03:38:59.11 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:59.11 (6)  [splay.restricted_socket] >>>>-------    1819    17    1    17
+03:38:59.28 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:59.28 (6)  [splay.restricted_socket] >>>>-------    1836    17    1    17
+03:38:59.45 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:59.46 (6)  [splay.restricted_socket] >>>>-------    1853    17    1    17
+03:38:59.64 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:38:59.64 (6)  [splay.restricted_socket] >>>>-------    1862    9    1    9
+03:38:59.65 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:38:59.65 (6)  [splay.restricted_socket] >>>>-------    1871    9    1    9
+03:38:59.65 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:38:59.65 (6)  [splay.restricted_socket] >>>>-------    1880    9    1    9
+03:38:59.65 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:38:59.65 (6)  [splay.restricted_socket] >>>>-------    1897    17    1    17
+03:39:00.19 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:00.19 (6)  [splay.restricted_socket] >>>>-------    1914    17    1    17
+03:39:00.28 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:00.29 (6)  [splay.restricted_socket] >>>>-------    1931    17    1    17
+03:39:00.34 (6)  Total send: 1931 (max: 134217728)
+03:39:00.34 (6)  Total receive: 1100084 (max: 134217728)
+03:39:00.34 (6)  Total TCP sockets: 4 (max: 32)
+03:39:00.35 (6)  Total UDP sockets: 0 (max: 32)
+03:39:00.35 (6)  Ports: 23147-23147
+03:39:00.35 (6)  No blacklist
+03:39:00.35 (6)  Local IP: unknown
+03:39:00.35 (6)  
+03:39:00.35 (6)  #### Summary (mem: 1138ko) ###
+03:39:00.35 (6)  Connected to: (3)
+03:39:00.35 (6)      95.53.143.182:39323 choked (0-0)
+03:39:00.35 (6)      207.67.87.34:52176 unchoked (1064960-0)
+03:39:00.35 (6)      213.251.185.88:9087 unchoked (0-0)
+03:39:00.35 (6)  Downloading:
+03:39:00.35 (6)      Block 664 3.125%
+03:39:00.35 (6)  Blocks completed 2 / 1399
+03:39:00.35 (6)  Bytes received: 1064960
+03:39:00.35 (6)  Bytes sent: 0
+03:39:00.35 (6)  
+03:39:00.36 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:00.36 (6)  [splay.restricted_socket] >>>>-------    1948    17    1    17
+03:39:00.39 (6)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:39:00.39 (6)  [splay.restricted_socket] >>>>-------    2016    68    1    68
+03:39:00.45 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:00.45 (6)  [splay.restricted_socket] >>>>-------    2033    17    1    17
+03:39:00.48 (6)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:39:00.48 (6)  [splay.restricted_socket] >>>>-------    2038    5    1    5
+03:39:00.48 (6)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:39:00.48 (6)  [splay.restricted_socket] >>>>-------    2043    5    1    5
+03:39:00.54 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:00.54 (6)  [splay.restricted_socket] >>>>-------    2060    17    1    17
+03:39:00.55 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:00.56 (6)  [splay.restricted_socket] >>>>-------    2077    17    1    17
+03:39:00.65 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:00.65 (6)  [splay.restricted_socket] >>>>-------    2094    17    1    17
+03:39:00.74 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:00.74 (6)  [splay.restricted_socket] >>>>-------    2111    17    1    17
+03:39:00.75 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:00.75 (6)  [splay.restricted_socket] >>>>-------    2128    17    1    17
+03:39:00.84 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:00.84 (6)  [splay.restricted_socket] >>>>-------    2145    17    1    17
+03:39:00.94 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:00.97 (6)  [splay.restricted_socket] >>>>-------    2162    17    1    17
+03:39:00.98 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:00.99 (6)  [splay.restricted_socket] >>>>-------    2179    17    1    17
+03:39:00.99 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:00.99 (6)  [splay.restricted_socket] >>>>-------    2196    17    1    17
+03:39:01.07 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.07 (6)  [splay.restricted_socket] >>>>-------    2213    17    1    17
+03:39:01.10 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.11 (6)  [splay.restricted_socket] >>>>-------    2230    17    1    17
+03:39:01.16 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.16 (6)  [splay.restricted_socket] >>>>-------    2247    17    1    17
+03:39:01.25 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.25 (6)  [splay.restricted_socket] >>>>-------    2264    17    1    17
+03:39:01.26 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.26 (6)  [splay.restricted_socket] >>>>-------    2281    17    1    17
+03:39:01.30 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.30 (6)  [splay.restricted_socket] >>>>-------    2298    17    1    17
+03:39:01.41 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.41 (6)  [splay.restricted_socket] >>>>-------    2315    17    1    17
+03:39:01.43 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.43 (6)  [splay.restricted_socket] >>>>-------    2332    17    1    17
+03:39:01.43 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.43 (6)  [splay.restricted_socket] >>>>-------    2349    17    1    17
+03:39:01.52 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.52 (6)  [splay.restricted_socket] >>>>-------    2366    17    1    17
+03:39:01.55 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.55 (6)  [splay.restricted_socket] >>>>-------    2383    17    1    17
+03:39:01.62 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.62 (6)  [splay.restricted_socket] >>>>-------    2400    17    1    17
+03:39:01.66 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.66 (6)  [splay.restricted_socket] >>>>-------    2417    17    1    17
+03:39:01.74 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.74 (6)  [splay.restricted_socket] >>>>-------    2434    17    1    17
+03:39:01.85 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.85 (6)  [splay.restricted_socket] >>>>-------    2451    17    1    17
+03:39:01.88 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:01.88 (6)  [splay.restricted_socket] >>>>-------    2468    17    1    17
+03:39:01.99 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.05 (6)  [splay.restricted_socket] >>>>-------    2485    17    1    17
+03:39:02.10 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.10 (6)  [splay.restricted_socket] >>>>-------    2502    17    1    17
+03:39:02.15 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.15 (6)  [splay.restricted_socket] >>>>-------    2519    17    1    17
+03:39:02.15 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.15 (6)  [splay.restricted_socket] >>>>-------    2536    17    1    17
+03:39:02.24 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.25 (6)  [splay.restricted_socket] >>>>-------    2553    17    1    17
+03:39:02.30 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.30 (6)  [splay.restricted_socket] >>>>-------    2570    17    1    17
+03:39:02.39 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.39 (6)  [splay.restricted_socket] >>>>-------    2587    17    1    17
+03:39:02.39 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.39 (6)  [splay.restricted_socket] >>>>-------    2604    17    1    17
+03:39:02.43 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.43 (6)  [splay.restricted_socket] >>>>-------    2621    17    1    17
+03:39:02.49 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.49 (6)  [splay.restricted_socket] >>>>-------    2638    17    1    17
+03:39:02.50 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.50 (6)  [splay.restricted_socket] >>>>-------    2655    17    1    17
+03:39:02.61 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.61 (6)  [splay.restricted_socket] >>>>-------    2672    17    1    17
+03:39:02.62 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.62 (6)  [splay.restricted_socket] >>>>-------    2689    17    1    17
+03:39:02.62 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.62 (6)  [splay.restricted_socket] >>>>-------    2706    17    1    17
+03:39:02.74 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.74 (6)  [splay.restricted_socket] >>>>-------    2723    17    1    17
+03:39:02.75 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.75 (6)  [splay.restricted_socket] >>>>-------    2740    17    1    17
+03:39:02.79 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.79 (6)  [splay.restricted_socket] >>>>-------    2757    17    1    17
+03:39:02.85 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.85 (6)  [splay.restricted_socket] >>>>-------    2774    17    1    17
+03:39:02.85 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.85 (6)  [splay.restricted_socket] >>>>-------    2791    17    1    17
+03:39:02.97 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:02.97 (6)  [splay.restricted_socket] >>>>-------    2808    17    1    17
+03:39:03.01 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.01 (6)  [splay.restricted_socket] >>>>-------    2825    17    1    17
+03:39:03.02 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.02 (6)  [splay.restricted_socket] >>>>-------    2842    17    1    17
+03:39:03.14 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.22 (6)  [splay.restricted_socket] >>>>-------    2859    17    1    17
+03:39:03.24 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.24 (6)  [splay.restricted_socket] >>>>-------    2876    17    1    17
+03:39:03.24 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.24 (6)  [splay.restricted_socket] >>>>-------    2893    17    1    17
+03:39:03.24 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.24 (6)  [splay.restricted_socket] >>>>-------    2910    17    1    17
+03:39:03.24 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.24 (6)  [splay.restricted_socket] >>>>-------    2927    17    1    17
+03:39:03.30 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.30 (6)  [splay.restricted_socket] >>>>-------    2944    17    1    17
+03:39:03.32 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.32 (6)  [splay.restricted_socket] >>>>-------    2961    17    1    17
+03:39:03.34 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.34 (6)  [splay.restricted_socket] >>>>-------    2978    17    1    17
+03:39:03.41 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.41 (6)  [splay.restricted_socket] >>>>-------    2995    17    1    17
+03:39:03.41 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.41 (6)  [splay.restricted_socket] >>>>-------    3012    17    1    17
+03:39:03.53 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.53 (6)  [splay.restricted_socket] >>>>-------    3029    17    1    17
+03:39:03.54 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.54 (6)  [splay.restricted_socket] >>>>-------    3046    17    1    17
+03:39:03.62 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.62 (6)  [splay.restricted_socket] >>>>-------    3063    17    1    17
+03:39:03.67 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.67 (6)  [splay.restricted_socket] >>>>-------    3080    17    1    17
+03:39:03.70 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.70 (6)  [splay.restricted_socket] >>>>-------    3097    17    1    17
+03:39:03.76 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.76 (6)  [splay.restricted_socket] >>>>-------    3114    17    1    17
+03:39:03.81 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.81 (6)  [splay.restricted_socket] >>>>-------    3131    17    1    17
+03:39:03.84 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.84 (6)  [splay.restricted_socket] >>>>-------    3148    17    1    17
+03:39:03.89 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.90 (6)  [splay.restricted_socket] >>>>-------    3165    17    1    17
+03:39:03.94 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.94 (6)  [splay.restricted_socket] >>>>-------    3182    17    1    17
+03:39:03.99 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:03.99 (6)  [splay.restricted_socket] >>>>-------    3199    17    1    17
+03:39:04.04 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:04.04 (6)  [splay.restricted_socket] >>>>-------    3216    17    1    17
+03:39:04.12 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:04.12 (6)  [splay.restricted_socket] >>>>-------    3225    9    1    9
+03:39:04.12 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:04.12 (6)  [splay.restricted_socket] >>>>-------    3234    9    1    9
+03:39:04.12 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:04.12 (6)  [splay.restricted_socket] >>>>-------    3243    9    1    9
+03:39:04.12 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:04.12 (6)  [splay.restricted_socket] >>>>-------    3260    17    1    17
+03:39:04.12 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:04.12 (6)  [splay.restricted_socket] >>>>-------    3269    9    1    9
+03:39:04.22 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:04.27 (6)  [splay.restricted_socket] >>>>-------    3286    17    1    17
+03:39:04.34 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:04.34 (6)  [splay.restricted_socket] >>>>-------    3303    17    1    17
+03:39:04.40 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:04.40 (6)  [splay.restricted_socket] >>>>-------    3320    17    1    17
+03:39:04.46 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:04.46 (6)  [splay.restricted_socket] >>>>-------    3337    17    1    17
+03:39:04.48 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:04.48 (6)  [splay.restricted_socket] >>>>-------    3354    17    1    17
+03:39:04.59 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:04.59 (6)  [splay.restricted_socket] >>>>-------    3371    17    1    17
+03:39:04.67 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:04.67 (6)  [splay.restricted_socket] >>>>-------    3388    17    1    17
+03:39:04.74 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:04.74 (6)  [splay.restricted_socket] >>>>-------    3405    17    1    17
+03:39:04.75 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:04.75 (6)  [splay.restricted_socket] >>>>-------    3422    17    1    17
+03:39:04.85 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:04.85 (6)  [splay.restricted_socket] >>>>-------    3439    17    1    17
+03:39:04.87 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:04.87 (6)  [splay.restricted_socket] >>>>-------    3456    17    1    17
+03:39:04.92 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:04.92 (6)  [splay.restricted_socket] >>>>-------    3473    17    1    17
+03:39:04.93 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:04.93 (6)  [splay.restricted_socket] >>>>-------    3490    17    1    17
+03:39:05.01 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.01 (6)  [splay.restricted_socket] >>>>-------    3507    17    1    17
+03:39:05.02 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.02 (6)  [splay.restricted_socket] >>>>-------    3524    17    1    17
+03:39:05.11 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.11 (6)  [splay.restricted_socket] >>>>-------    3541    17    1    17
+03:39:05.11 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.11 (6)  [splay.restricted_socket] >>>>-------    3558    17    1    17
+03:39:05.19 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.20 (6)  [splay.restricted_socket] >>>>-------    3575    17    1    17
+03:39:05.23 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.23 (6)  [splay.restricted_socket] >>>>-------    3592    17    1    17
+03:39:05.31 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.31 (6)  [splay.restricted_socket] >>>>-------    3609    17    1    17
+03:39:05.33 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.33 (6)  [splay.restricted_socket] >>>>-------    3626    17    1    17
+03:39:05.37 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.42 (6)  [splay.restricted_socket] >>>>-------    3643    17    1    17
+03:39:05.45 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.45 (6)  [splay.restricted_socket] >>>>-------    3660    17    1    17
+03:39:05.45 (6)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:39:05.45 (6)  [splay.restricted_socket] >>>>-------    3728    68    1    68
+03:39:05.50 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.50 (6)  [splay.restricted_socket] >>>>-------    3745    17    1    17
+03:39:05.51 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.51 (6)  [splay.restricted_socket] >>>>-------    3762    17    1    17
+03:39:05.51 (6)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:39:05.51 (6)  [splay.restricted_socket] >>>>-------    3767    5    1    5
+03:39:05.51 (6)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:39:05.51 (6)  [splay.restricted_socket] >>>>-------    3772    5    1    5
+03:39:05.51 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.51 (6)  [splay.restricted_socket] >>>>-------    3789    17    1    17
+03:39:05.62 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.62 (6)  [splay.restricted_socket] >>>>-------    3806    17    1    17
+03:39:05.63 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.64 (6)  [splay.restricted_socket] >>>>-------    3823    17    1    17
+03:39:05.71 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.71 (6)  [splay.restricted_socket] >>>>-------    3840    17    1    17
+03:39:05.71 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.71 (6)  [splay.restricted_socket] >>>>-------    3857    17    1    17
+03:39:05.78 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.78 (6)  [splay.restricted_socket] >>>>-------    3874    17    1    17
+03:39:05.82 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.82 (6)  [splay.restricted_socket] >>>>-------    3891    17    1    17
+03:39:05.91 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.91 (6)  [splay.restricted_socket] >>>>-------    3908    17    1    17
+03:39:05.92 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:05.93 (6)  [splay.restricted_socket] >>>>-------    3917    9    1    9
+03:39:05.93 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.93 (6)  [splay.restricted_socket] >>>>-------    3934    17    1    17
+03:39:05.94 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:05.94 (6)  [splay.restricted_socket] >>>>-------    3943    9    1    9
+03:39:05.94 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:05.94 (6)  [splay.restricted_socket] >>>>-------    3952    9    1    9
+03:39:05.94 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:05.94 (6)  [splay.restricted_socket] >>>>-------    3961    9    1    9
+03:39:05.94 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:05.94 (6)  [splay.restricted_socket] >>>>-------    3970    9    1    9
+03:39:05.94 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.94 (6)  [splay.restricted_socket] >>>>-------    3987    17    1    17
+03:39:05.94 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:05.94 (6)  [splay.restricted_socket] >>>>-------    4004    17    1    17
+03:39:06.11 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.11 (6)  [splay.restricted_socket] >>>>-------    4021    17    1    17
+03:39:06.14 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.14 (6)  [splay.restricted_socket] >>>>-------    4038    17    1    17
+03:39:06.15 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.15 (6)  [splay.restricted_socket] >>>>-------    4055    17    1    17
+03:39:06.26 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.27 (6)  [splay.restricted_socket] >>>>-------    4072    17    1    17
+03:39:06.32 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.36 (6)  [splay.restricted_socket] >>>>-------    4089    17    1    17
+03:39:06.40 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.40 (6)  [splay.restricted_socket] >>>>-------    4106    17    1    17
+03:39:06.50 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.55 (6)  [splay.restricted_socket] >>>>-------    4123    17    1    17
+03:39:06.59 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.59 (6)  [splay.restricted_socket] >>>>-------    4140    17    1    17
+03:39:06.60 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.60 (6)  [splay.restricted_socket] >>>>-------    4157    17    1    17
+03:39:06.64 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.64 (6)  [splay.restricted_socket] >>>>-------    4174    17    1    17
+03:39:06.69 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.69 (6)  [splay.restricted_socket] >>>>-------    4191    17    1    17
+03:39:06.80 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.80 (6)  [splay.restricted_socket] >>>>-------    4208    17    1    17
+03:39:06.81 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.81 (6)  [splay.restricted_socket] >>>>-------    4225    17    1    17
+03:39:06.82 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.82 (6)  [splay.restricted_socket] >>>>-------    4242    17    1    17
+03:39:06.90 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.90 (6)  [splay.restricted_socket] >>>>-------    4259    17    1    17
+03:39:06.93 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.93 (6)  [splay.restricted_socket] >>>>-------    4276    17    1    17
+03:39:06.98 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:06.98 (6)  [splay.restricted_socket] >>>>-------    4293    17    1    17
+03:39:07.05 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:07.05 (6)  [splay.restricted_socket] >>>>-------    4310    17    1    17
+03:39:07.09 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:07.09 (6)  [splay.restricted_socket] >>>>-------    4327    17    1    17
+03:39:07.09 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:07.09 (6)  [splay.restricted_socket] >>>>-------    4344    17    1    17
+03:39:07.18 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:07.18 (6)  [splay.restricted_socket] >>>>-------    4361    17    1    17
+03:39:07.27 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:07.27 (6)  [splay.restricted_socket] >>>>-------    4378    17    1    17
+03:39:07.27 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:07.27 (6)  [splay.restricted_socket] >>>>-------    4395    17    1    17
+03:39:07.30 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:07.30 (6)  [splay.restricted_socket] >>>>-------    4412    17    1    17
+03:39:07.37 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:07.40 (6)  [splay.restricted_socket] >>>>-------    4429    17    1    17
+03:39:07.45 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:07.45 (6)  [splay.restricted_socket] >>>>-------    4446    17    1    17
+03:39:07.46 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:07.46 (6)  [splay.restricted_socket] >>>>-------    4463    17    1    17
+03:39:07.63 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:07.68 (6)  [splay.restricted_socket] >>>>-------    4480    17    1    17
+03:39:07.69 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:07.69 (6)  [splay.restricted_socket] >>>>-------    4497    17    1    17
+03:39:07.75 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:07.75 (6)  [splay.restricted_socket] >>>>-------    4506    9    1    9
+03:39:07.75 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:07.75 (6)  [splay.restricted_socket] >>>>-------    4515    9    1    9
+03:39:07.75 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:07.75 (6)  [splay.restricted_socket] >>>>-------    4524    9    1    9
+03:39:07.75 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:07.75 (6)  [splay.restricted_socket] >>>>-------    4533    9    1    9
+03:39:07.75 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:07.75 (6)  [splay.restricted_socket] >>>>-------    4550    17    1    17
+03:39:07.75 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:07.75 (6)  [splay.restricted_socket] >>>>-------    4559    9    1    9
+03:39:07.81 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:07.81 (6)  [splay.restricted_socket] >>>>-------    4568    9    1    9
+03:39:07.82 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:07.82 (6)  [splay.restricted_socket] >>>>-------    4577    9    1    9
+03:39:07.82 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:07.82 (6)  [splay.restricted_socket] >>>>-------    4594    17    1    17
+03:39:07.82 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:07.82 (6)  [splay.restricted_socket] >>>>-------    4603    9    1    9
+03:39:07.82 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:07.82 (6)  [splay.restricted_socket] >>>>-------    4612    9    1    9
+03:39:07.82 (6)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:39:07.82 (6)  [splay.restricted_socket] >>>>-------    4621    9    1    9
+03:39:07.82 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:07.82 (6)  [splay.restricted_socket] >>>>-------    4638    17    1    17
+03:39:08.04 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.04 (6)  [splay.restricted_socket] >>>>-------    4655    17    1    17
+03:39:08.05 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.05 (6)  [splay.restricted_socket] >>>>-------    4672    17    1    17
+03:39:08.06 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.06 (6)  [splay.restricted_socket] >>>>-------    4689    17    1    17
+03:39:08.13 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.13 (6)  [splay.restricted_socket] >>>>-------    4706    17    1    17
+03:39:08.23 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.23 (6)  [splay.restricted_socket] >>>>-------    4723    17    1    17
+03:39:08.24 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.24 (6)  [splay.restricted_socket] >>>>-------    4740    17    1    17
+03:39:08.24 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.24 (6)  [splay.restricted_socket] >>>>-------    4757    17    1    17
+03:39:08.37 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.37 (6)  [splay.restricted_socket] >>>>-------    4774    17    1    17
+03:39:08.42 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.44 (6)  [splay.restricted_socket] >>>>-------    4791    17    1    17
+03:39:08.44 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.44 (6)  [splay.restricted_socket] >>>>-------    4808    17    1    17
+03:39:08.52 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.52 (6)  [splay.restricted_socket] >>>>-------    4825    17    1    17
+03:39:08.54 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.54 (6)  [splay.restricted_socket] >>>>-------    4842    17    1    17
+03:39:08.59 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.59 (6)  [splay.restricted_socket] >>>>-------    4859    17    1    17
+03:39:08.64 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.64 (6)  [splay.restricted_socket] >>>>-------    4876    17    1    17
+03:39:08.72 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.77 (6)  [splay.restricted_socket] >>>>-------    4893    17    1    17
+03:39:08.82 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.82 (6)  [splay.restricted_socket] >>>>-------    4910    17    1    17
+03:39:08.82 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.82 (6)  [splay.restricted_socket] >>>>-------    4927    17    1    17
+03:39:08.84 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.84 (6)  [splay.restricted_socket] >>>>-------    4944    17    1    17
+03:39:08.87 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.87 (6)  [splay.restricted_socket] >>>>-------    4961    17    1    17
+03:39:08.88 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.88 (6)  [splay.restricted_socket] >>>>-------    4978    17    1    17
+03:39:08.97 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:08.98 (6)  [splay.restricted_socket] >>>>-------    4995    17    1    17
+03:39:09.00 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:09.00 (6)  [splay.restricted_socket] >>>>-------    5012    17    1    17
+03:39:09.04 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:09.04 (6)  [splay.restricted_socket] >>>>-------    5029    17    1    17
+03:39:09.04 (6)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:39:37.21 (6)  END_LOG

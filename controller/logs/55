@@ -1,0 +1,83 @@
+12:21:52.09 (1)  >> Job settings:
+12:21:52.09 (1)  Ref: b5d783a590cf11ed92f81b624a63efc9
+12:21:52.09 (1)  Name: 
+12:21:52.09 (1)  Description: 
+12:21:52.09 (1)  Disk:
+12:21:52.09 (1)  	max 512 files
+12:21:52.09 (1)  	max 32 file descriptors
+12:21:52.09 (1)  	max 67108864 size in bytes
+12:21:52.09 (1)  Mem 2097152 bytes of memory
+12:21:52.09 (1)  Network:
+12:21:52.09 (1)  	max 134217728/134217728 send/receive bytes
+12:21:52.09 (1)  	max 32 tcp sockets
+12:21:52.09 (1)  	ip 127.0.0.1
+12:21:52.09 (1)  	ports 27339-27339
+12:21:52.09 (1)  
+12:21:52.09 (1)  >> Into sandbox !!!
+12:21:52.09 (1)  > Memory: 135 ko
+12:21:52.09 (1)  > Checking sandbox...
+12:21:52.10 (1)     > passed
+12:21:52.10 (1)  
+12:21:52.10 (1)  >> Splay test script
+12:21:52.10 (1)  
+12:21:52.11 (1)  Memory: 201 ko
+12:21:52.11 (1)  Lua 5.1
+12:21:52.11 (1)  Splayd v.0.9
+12:21:52.11 (1)  
+12:21:52.11 (1)  > Test 0: packages
+12:21:52.11 (1)  
+12:21:52.11 (1)  > Test 1: strings
+12:21:52.11 (1)  Visual test to see if json encoded file transfer has not corrupted the file.)
+12:21:52.11 (1)  \ line one 
+12:21:52.11 (1)  line two 
+12:21:52.11 (1)  a pseudo json utf-16 char: \u4141
+12:21:52.11 (1)  
+12:21:52.11 (1)  > Test 2: Global vars that must NOT exists
+12:21:52.11 (1)  OK: no global vars
+12:21:52.11 (1)  
+12:21:52.11 (1)  > Test 3: Script arguments:
+12:21:52.11 (1)  No command line arguments, maybe we are bytecode Lua.
+12:21:52.11 (1)  
+12:21:52.11 (1)  > Test 4: Restricted sockets
+12:21:52.11 (1)  #SE: #RS: table: 0x8057e48
+12:21:52.11 (1)  Total send: 0 (max: 134217728)
+12:21:52.11 (1)  Total receive: 0 (max: 134217728)
+12:21:52.11 (1)  Total TCP sockets: 0 (max: 32)
+12:21:52.11 (1)  Total UDP sockets: 0 (max: 32)
+12:21:52.11 (1)  Ports: 27339-27339
+12:21:52.11 (1)  No blacklist
+12:21:52.11 (1)  Local IP: unknown
+12:21:52.11 (1)  
+12:21:52.11 (1)  
+12:21:52.11 (1)  > Test 5: job list:
+12:21:52.11 (1)  OK: my position is: 1
+12:21:52.11 (1)  > me: 127.0.0.1:27339
+12:21:52.11 (1)  > list type: head (size: 1)
+12:21:52.11 (1)  > All jobs list:
+12:21:52.11 (1)  	1 ip: 127.0.0.1:27339
+12:21:52.11 (1)  
+12:21:52.11 (1)  > Test 6: Restricted IO:
+12:21:52.11 (1)  OK: restricted IO.
+12:21:52.11 (1)  Total files: 0 (max: 512)
+12:21:52.11 (1)  Total size: 0 (max: 67108864)
+12:21:52.11 (1)  Total file descriptors: 0 (max: 32)
+12:21:52.11 (1)  OK: restricted IO initialized.
+12:21:52.11 (1)  
+12:21:52.11 (1)  > Test 7: Misc:
+12:21:52.11 (1)  1222683712.1045	1222683712
+12:21:52.12 (1)  OK: misc loaded.
+12:21:52.12 (1)  
+12:21:52.12 (1)  > Test 8: RPCs:
+12:21:52.12 (1)  OK: RPC.
+12:21:52.12 (1)  
+12:21:52.12 (1)  > Test 9: Mem:
+12:21:52.12 (1)  Memory: 235 ko
+12:21:52.12 (1)  OK: memory allocation count.
+12:21:52.12 (1)  OK: memory deallocation.
+12:21:52.12 (1)  
+12:21:52.12 (1)  ------------------------------------------------------
+12:21:52.12 (1)  CHECKS OK, the application is executed in a secure environment.
+12:21:52.12 (1)  ------------------------------------------------------
+12:21:52.12 (1)  
+12:21:52.12 (1)  Memory: 235 ko
+12:22:42.11 (1)  end_log (connection lost)

@@ -1,0 +1,566 @@
+03:21:57.74 (5)  START_LOG
+03:21:57.74 (5)  SPLAYD LUA EXEC
+03:21:57.87 (5)  >> Job settings:
+03:21:57.87 (5)  Ref: 36949fe15ce0def4255c08d1efb1c131
+03:21:57.87 (5)  Name: 
+03:21:57.87 (5)  Description: 
+03:21:57.87 (5)  Disk:
+03:21:57.87 (5)  	max 512 files
+03:21:57.87 (5)  	max 32 file descriptors
+03:21:57.87 (5)  	max 800000000 size in bytes
+03:21:57.87 (5)  Mem 10104033 bytes of memory
+03:21:57.87 (5)  Network:
+03:21:57.87 (5)  	max 134217728/134217728 send/receive bytes
+03:21:57.87 (5)  	max 32 tcp sockets
+03:21:57.87 (5)  	ip 127.0.0.1
+03:21:57.87 (5)  	ports 27951-27951
+03:21:57.87 (5)  
+03:21:57.88 (5)  >> Into sandbox !!!
+03:21:57.88 (5)  > Memory: 162 ko
+03:21:57.88 (5)  > Checking sandbox...
+03:21:57.88 (5)     > passed
+03:21:57.88 (5)  
+03:21:58.00 (5)  [splay.restricted_socket] >>>>>>>>>>>>    58    GET /8.10/ubuntu-8.1
+03:21:58.00 (5)  [splay.restricted_socket] >>>>>>>>>>>>    95    host: releases.ubunt
+03:21:58.22 (5)  Tracker: http://torrent.ubuntu.com:6969/announce
+03:21:58.22 (5)  Total file size: 732989440
+03:21:58.22 (5)  Pieces size: 524288 (34816)
+03:21:58.35 (5)  [splay.restricted_socket] >>>>>>>>>>>>    198    GET /announce?info_h
+03:21:58.35 (5)  [splay.restricted_socket] >>>>>>>>>>>>    94    host: torrent.ubuntu
+03:21:58.46 (5)  Tracker interval: 1800 complete: 533 incomplete: 36
+03:21:58.46 (5)  91.168.81.19    12601
+03:21:58.46 (5)  92.105.89.21    18264
+03:21:58.46 (5)  87.185.182.195    27110
+03:21:58.46 (5)  87.167.103.125    6882
+03:21:58.46 (5)  65.80.22.65    24515
+03:21:58.46 (5)  63.252.67.4    6881
+03:21:58.46 (5)  82.234.74.141    31744
+03:21:58.46 (5)  71.200.56.179    35800
+03:21:58.46 (5)  189.24.17.90    31777
+03:21:58.46 (5)  91.84.209.134    47449
+03:21:58.46 (5)  91.45.133.148    10164
+03:21:58.46 (5)  190.189.108.79    33442
+03:21:58.46 (5)  76.226.132.42    27203
+03:21:58.47 (5)  219.110.159.121    59259
+03:21:58.47 (5)  190.188.144.105    64026
+03:21:58.47 (5)  66.108.199.237    54251
+03:21:58.47 (5)  92.105.108.166    6882
+03:21:58.47 (5)  24.81.10.93    30252
+03:21:58.47 (5)  69.251.110.85    7070
+03:21:58.47 (5)  76.175.75.48    14365
+03:21:58.47 (5)  82.143.240.67    58222
+03:21:58.47 (5)  78.113.115.20    43710
+03:21:58.47 (5)  68.106.252.181    11950
+03:21:58.47 (5)  192.42.122.122    35738
+03:21:58.47 (5)  77.21.67.125    34924
+03:21:58.47 (5)  128.118.99.49    6881
+03:21:58.47 (5)  83.76.18.247    6881
+03:21:58.47 (5)  76.93.15.55    38843
+03:21:58.47 (5)  190.55.105.49    39640
+03:21:58.47 (5)  65.80.22.65    24515
+03:21:58.47 (5)  74.140.241.239    6881
+03:21:58.47 (5)  76.197.179.160    57900
+03:21:58.47 (5)  83.171.151.168    9066
+03:21:58.47 (5)  122.55.219.31    43253
+03:21:58.47 (5)  76.29.160.102    35123
+03:21:58.47 (5)  201.52.41.3    51001
+03:21:58.47 (5)  77.22.168.71    63009
+03:21:58.47 (5)  76.78.57.92    43608
+03:21:58.47 (5)  66.177.65.173    10373
+03:21:58.47 (5)  62.75.221.125    49656
+03:21:58.47 (5)  80.252.220.29    10000
+03:21:58.47 (5)  72.209.57.102    35287
+03:21:58.48 (5)  58.216.215.38    6882
+03:21:58.48 (5)  69.247.169.70    59897
+03:21:58.48 (5)  68.42.74.179    50936
+03:21:58.48 (5)  217.128.38.37    11793
+03:21:58.48 (5)  174.129.160.55    49206
+03:21:58.48 (5)  88.65.82.4    9721
+03:21:58.48 (5)  79.136.63.88    38542
+03:21:58.48 (5)  122.162.48.200    13287
+03:22:05.60 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:22:08.51 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:22:08.54 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:08.54 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:09.39 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:09.39 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:13.48 (5)  Total send: 601 (max: 134217728)
+03:22:13.48 (5)  Total receive: 29838 (max: 134217728)
+03:22:13.48 (5)  Total TCP sockets: 3 (max: 32)
+03:22:13.48 (5)  Total UDP sockets: 0 (max: 32)
+03:22:13.48 (5)  Ports: 27951-27951
+03:22:13.48 (5)  No blacklist
+03:22:13.48 (5)  Local IP: unknown
+03:22:13.48 (5)  
+03:22:13.48 (5)  #### Summary (mem: 1229ko) ###
+03:22:13.48 (5)  Connected to: (2)
+03:22:13.48 (5)      122.55.219.31:43253 choked (0-0)
+03:22:13.48 (5)      83.76.18.247:6881 choked (0-0)
+03:22:13.48 (5)  Downloading:
+03:22:13.48 (5)  Blocks completed 0 / 1399
+03:22:13.49 (5)  Bytes received: 0
+03:22:13.49 (5)  Bytes sent: 0
+03:22:13.49 (5)  
+03:22:13.62 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:22:13.81 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:13.81 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:15.25 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:16.47 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:17.07 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:17.56 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:18.40 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:18.55 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:22:18.63 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:18.68 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:19.20 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:20.54 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:21.34 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:23.40 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:23.44 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:24.31 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:22:24.80 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:24.80 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:25.43 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:25.47 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:26.27 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:27.55 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:27.59 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:28.48 (5)  Total send: 1090 (max: 134217728)
+03:22:28.48 (5)  Total receive: 237778 (max: 134217728)
+03:22:28.48 (5)  Total TCP sockets: 6 (max: 32)
+03:22:28.48 (5)  Total UDP sockets: 0 (max: 32)
+03:22:28.48 (5)  Ports: 27951-27951
+03:22:28.48 (5)  No blacklist
+03:22:28.48 (5)  Local IP: unknown
+03:22:28.48 (5)  
+03:22:28.48 (5)  #### Summary (mem: 1491ko) ###
+03:22:28.48 (5)  Connected to: (5)
+03:22:28.48 (5)      69.251.110.85:7070 unchoked (65536-0)
+03:22:28.48 (5)      217.128.38.37:11793 choked (0-0)
+03:22:28.48 (5)      87.167.103.125:6882 choked (0-0)
+03:22:28.48 (5)      122.55.219.31:43253 unchoked (0-0)
+03:22:28.48 (5)      83.76.18.247:6881 unchoked (131072-0)
+03:22:28.48 (5)  Downloading:
+03:22:28.49 (5)      Block 410 25%
+03:22:28.49 (5)      Block 1195 12.5%
+03:22:28.49 (5)  Blocks completed 0 / 1399
+03:22:28.49 (5)  Bytes received: 196608
+03:22:28.49 (5)  Bytes sent: 0
+03:22:28.49 (5)  
+03:22:28.69 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:22:28.87 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+03:22:29.89 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:30.17 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:31.32 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:32.21 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:32.51 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:33.15 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:33.67 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:34.65 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:22:35.28 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:35.35 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:35.87 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:35.87 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:36.21 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:37.58 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:37.71 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:38.52 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:22:38.55 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:38.55 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:39.35 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:40.32 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:40.43 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:40.92 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:41.37 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:42.32 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:42.84 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:43.48 (5)  Total send: 1637 (max: 134217728)
+03:22:43.48 (5)  Total receive: 545184 (max: 134217728)
+03:22:43.48 (5)  Total TCP sockets: 8 (max: 32)
+03:22:43.48 (5)  Total UDP sockets: 0 (max: 32)
+03:22:43.48 (5)  Ports: 27951-27951
+03:22:43.49 (5)  No blacklist
+03:22:43.49 (5)  Local IP: unknown
+03:22:43.49 (5)  
+03:22:43.49 (5)  #### Summary (mem: 2635ko) ###
+03:22:43.49 (5)  Connected to: (7)
+03:22:43.49 (5)      92.105.89.21:18264 choked (0-0)
+03:22:43.49 (5)      69.251.110.85:7070 unchoked (163840-0)
+03:22:43.49 (5)      217.128.38.37:11793 choked (0-0)
+03:22:43.49 (5)      87.167.103.125:6882 choked (0-0)
+03:22:43.49 (5)      189.24.17.90:31777 unchoked (0-0)
+03:22:43.49 (5)      122.55.219.31:43253 unchoked (0-0)
+03:22:43.49 (5)      83.76.18.247:6881 unchoked (327680-0)
+03:22:43.49 (5)  Downloading:
+03:22:43.49 (5)      Block 410 62.5%
+03:22:43.50 (5)      Block 1195 31.25%
+03:22:43.50 (5)  Blocks completed 0 / 1399
+03:22:43.50 (5)  Bytes received: 491520
+03:22:43.50 (5)  Bytes sent: 0
+03:22:43.50 (5)  
+03:22:43.51 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:43.53 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:22:43.99 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:44.00 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:44.33 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:45.23 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:45.42 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:46.16 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:46.63 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:47.34 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:47.88 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:48.69 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:49.68 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:50.07 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:50.29 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:51.07 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:51.21 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:51.69 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:52.34 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:52.52 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:52.57 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:53.68 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:54.46 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:54.50 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:55.42 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:22:55.42 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:22:55.42 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:55.42 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:22:55.42 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:22:55.42 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:22:55.42 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:22:55.43 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:22:55.43 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:22:55.88 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:56.68 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:56.88 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:57.19 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:57.62 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:58.49 (5)  Total send: 2246 (max: 134217728)
+03:22:58.53 (5)  Total receive: 1001129 (max: 134217728)
+03:22:58.57 (5)  Total TCP sockets: 9 (max: 32)
+03:22:58.57 (5)  Total UDP sockets: 0 (max: 32)
+03:22:58.57 (5)  Ports: 27951-27951
+03:22:58.57 (5)  No blacklist
+03:22:58.57 (5)  Local IP: unknown
+03:22:58.57 (5)  
+03:22:58.57 (5)  #### Summary (mem: 1900ko) ###
+03:22:58.57 (5)  Connected to: (8)
+03:22:58.57 (5)      88.65.82.4:9721 choked (0-0)
+03:22:58.57 (5)      92.105.89.21:18264 unchoked (49152-0)
+03:22:58.57 (5)      83.76.18.247:6881 unchoked (557056-0)
+03:22:58.57 (5)      217.128.38.37:11793 choked (0-0)
+03:22:58.57 (5)      189.24.17.90:31777 unchoked (49152-0)
+03:22:58.57 (5)      69.251.110.85:7070 unchoked (262144-0)
+03:22:58.57 (5)      122.55.219.31:43253 unchoked (0-0)
+03:22:58.57 (5)      87.167.103.125:6882 choked (0-0)
+03:22:58.57 (5)  Downloading:
+03:22:58.57 (5)      Block 209 6.25%
+03:22:58.57 (5)      Block 671 9.375%
+03:22:58.57 (5)      Block 1122 9.375%
+03:22:58.57 (5)      Block 1195 50%
+03:22:58.57 (5)  Blocks completed 1 / 1399
+03:22:58.57 (5)  Bytes received: 917504
+03:22:58.57 (5)  Bytes sent: 0
+03:22:58.57 (5)  
+03:22:58.57 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:58.57 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:58.72 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:22:58.98 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:58.98 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:22:59.48 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:59.60 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:22:59.84 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:00.43 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:01.32 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+03:23:01.32 (5)  W: Transmission problem with 69.251.110.85:7070
+03:23:02.30 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:02.58 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:03.29 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:04.94 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:05.27 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:06.87 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:07.48 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:08.27 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:08.55 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:23:08.60 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:23:08.60 (5)  [splay.restricted_socket] >>>>>>>>>>>>    5    
+03:23:08.86 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:09.67 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:10.20 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:11.26 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:12.71 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:13.13 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:13.48 (5)  Total send: 2742 (max: 134217728)
+03:23:13.48 (5)  Total receive: 1309591 (max: 134217728)
+03:23:13.48 (5)  Total TCP sockets: 10 (max: 32)
+03:23:13.49 (5)  Total UDP sockets: 0 (max: 32)
+03:23:13.49 (5)  Ports: 27951-27951
+03:23:13.49 (5)  No blacklist
+03:23:13.49 (5)  Local IP: unknown
+03:23:13.49 (5)  
+03:23:13.49 (5)  #### Summary (mem: 2010ko) ###
+03:23:13.49 (5)  Connected to: (10)
+03:23:13.49 (5)      69.251.110.85:7070 unchoked (294912-0)
+03:23:13.49 (5)      83.76.18.247:6881 unchoked (688128-0)
+03:23:13.49 (5)      122.55.219.31:43253 unchoked (0-0)
+03:23:13.49 (5)      189.24.17.90:31777 unchoked (131072-0)
+03:23:13.49 (5)      217.128.38.37:11793 choked (0-0)
+03:23:13.49 (5)      87.167.103.125:6882 choked (0-0)
+03:23:13.49 (5)      82.143.240.67:58222 choked (0-0)
+03:23:13.49 (5)      76.175.75.48:14365 choked (0-0)
+03:23:13.49 (5)      92.105.89.21:18264 unchoked (131072-0)
+03:23:13.49 (5)      88.65.82.4:9721 choked (0-0)
+03:23:13.49 (5)  Downloading:
+03:23:13.49 (5)      Block 209 31.25%
+03:23:13.49 (5)      Block 671 25%
+03:23:13.49 (5)      Block 1122 25%
+03:23:13.49 (5)      Block 1195 56.25%
+03:23:13.49 (5)  Blocks completed 1 / 1399
+03:23:13.49 (5)  Bytes received: 1245184
+03:23:13.49 (5)  Bytes sent: 0
+03:23:13.49 (5)  
+03:23:13.50 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:15.57 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:16.44 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:16.71 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:18.33 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:20.25 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:20.35 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:22.19 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:22.75 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:22.80 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:23.57 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:23.83 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:24.96 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:26.36 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:27.35 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:28.49 (5)  Total send: 2997 (max: 134217728)
+03:23:28.49 (5)  Total receive: 1546172 (max: 134217728)
+03:23:28.49 (5)  Total TCP sockets: 10 (max: 32)
+03:23:28.49 (5)  Total UDP sockets: 0 (max: 32)
+03:23:28.49 (5)  Ports: 27951-27951
+03:23:28.49 (5)  No blacklist
+03:23:28.49 (5)  Local IP: unknown
+03:23:28.49 (5)  
+03:23:28.49 (5)  #### Summary (mem: 3497ko) ###
+03:23:28.49 (5)  Connected to: (10)
+03:23:28.49 (5)      69.251.110.85:7070 unchoked (294912-0)
+03:23:28.49 (5)      83.76.18.247:6881 unchoked (835584-0)
+03:23:28.49 (5)      122.55.219.31:43253 unchoked (0-0)
+03:23:28.49 (5)      189.24.17.90:31777 unchoked (163840-0)
+03:23:28.49 (5)      217.128.38.37:11793 choked (0-0)
+03:23:28.49 (5)      87.167.103.125:6882 choked (0-0)
+03:23:28.49 (5)      82.143.240.67:58222 unchoked (0-0)
+03:23:28.49 (5)      76.175.75.48:14365 choked (0-0)
+03:23:28.49 (5)      92.105.89.21:18264 unchoked (180224-0)
+03:23:28.49 (5)      88.65.82.4:9721 choked (0-0)
+03:23:28.49 (5)  Downloading:
+03:23:28.50 (5)      Block 209 59.375%
+03:23:28.50 (5)      Block 671 31.25%
+03:23:28.50 (5)      Block 1122 34.375%
+03:23:28.50 (5)      Block 1195 56.25%
+03:23:28.50 (5)  Blocks completed 1 / 1399
+03:23:28.50 (5)  Bytes received: 1474560
+03:23:28.50 (5)  Bytes sent: 0
+03:23:28.50 (5)  
+03:23:28.66 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:29.18 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:31.18 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:32.36 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:33.03 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:33.58 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:33.75 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:35.68 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:36.08 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:36.38 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:38.00 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:38.72 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:38.93 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:41.17 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:41.21 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:41.36 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:42.30 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:43.17 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:43.49 (5)  Total send: 3303 (max: 134217728)
+03:23:43.49 (5)  Total receive: 1829305 (max: 134217728)
+03:23:43.49 (5)  Total TCP sockets: 10 (max: 32)
+03:23:43.49 (5)  Total UDP sockets: 0 (max: 32)
+03:23:43.49 (5)  Ports: 27951-27951
+03:23:43.49 (5)  No blacklist
+03:23:43.49 (5)  Local IP: unknown
+03:23:43.49 (5)  
+03:23:43.49 (5)  #### Summary (mem: 3010ko) ###
+03:23:43.49 (5)  Connected to: (10)
+03:23:43.49 (5)      69.251.110.85:7070 unchoked (294912-0)
+03:23:43.49 (5)      83.76.18.247:6881 unchoked (933888-0)
+03:23:43.54 (5)      122.55.219.31:43253 unchoked (0-0)
+03:23:43.58 (5)      189.24.17.90:31777 unchoked (180224-0)
+03:23:43.61 (5)      217.128.38.37:11793 unchoked (32768-0)
+03:23:43.61 (5)      87.167.103.125:6882 choked (0-0)
+03:23:43.61 (5)      82.143.240.67:58222 unchoked (49152-0)
+03:23:43.61 (5)      76.175.75.48:14365 choked (0-0)
+03:23:43.61 (5)      92.105.89.21:18264 unchoked (262144-0)
+03:23:43.61 (5)      88.65.82.4:9721 choked (0-0)
+03:23:43.61 (5)  Downloading:
+03:23:43.61 (5)      Block 209 78.125%
+03:23:43.61 (5)      Block 499 9.375%
+03:23:43.61 (5)      Block 671 34.375%
+03:23:43.61 (5)      Block 895 6.25%
+03:23:43.61 (5)      Block 1122 50%
+03:23:43.61 (5)      Block 1195 56.25%
+03:23:43.61 (5)  Blocks completed 1 / 1399
+03:23:43.61 (5)  Bytes received: 1753088
+03:23:43.61 (5)  Bytes sent: 0
+03:23:43.61 (5)  
+03:23:44.30 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:45.07 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:45.27 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:46.08 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:46.39 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:46.54 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:47.90 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:48.33 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:48.76 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:48.78 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:49.23 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:49.73 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:50.66 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:52.17 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:52.33 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:52.38 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:52.52 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:53.46 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:53.61 (5)  [splay.restricted_socket] >>>>>>>>>>>>    17    
+03:23:54.56 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:23:54.56 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:23:54.57 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:23:54.57 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:23:54.57 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:23:54.57 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:23:54.57 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:23:54.57 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:23:54.57 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:23:54.57 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:23:54.57 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:23:54.57 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:23:54.57 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:23:54.57 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:23:54.57 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:23:54.57 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:23:54.57 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:23:54.57 (5)  [splay.restricted_socket] >>>>>>>>>>>>    9    
+03:23:54.57 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:23:54.57 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+03:23:54.57 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:23:54.57 (5)  W: Transmission problem with 83.76.18.247:6881
+03:23:54.57 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:23:54.57 (5)  W: Transmission problem with 122.55.219.31:43253
+03:23:54.57 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:23:54.57 (5)  W: Transmission problem with 189.24.17.90:31777
+03:23:54.57 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:23:54.57 (5)  W: Transmission problem with 217.128.38.37:11793
+03:23:54.57 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:23:54.57 (5)  W: Transmission problem with 87.167.103.125:6882
+03:23:54.57 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:23:54.57 (5)  W: Transmission problem with 82.143.240.67:58222
+03:23:54.57 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:23:54.57 (5)  W: Transmission problem with 88.65.82.4:9721
+03:23:54.57 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:23:54.57 (5)  W: Transmission problem with 92.105.89.21:18264
+03:23:54.57 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:23:54.57 (5)  W: Transmission problem with 76.175.75.48:14365
+03:23:54.57 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+03:23:54.57 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+03:23:54.57 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+03:23:54.57 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+03:23:54.57 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+03:23:54.57 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+03:23:54.57 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+03:23:54.57 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+03:23:54.57 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+03:23:58.49 (5)  Total send: 167537986 (max: 134217728)
+03:23:58.49 (5)  Total receive: 2201540 (max: 134217728)
+03:23:58.49 (5)  Total TCP sockets: 1 (max: 32)
+03:23:58.49 (5)  Total UDP sockets: 0 (max: 32)
+03:23:58.49 (5)  Ports: 27951-27951
+03:23:58.49 (5)  No blacklist
+03:23:58.49 (5)  Local IP: unknown
+03:23:58.49 (5)  
+03:23:58.49 (5)  #### Summary (mem: 4490ko) ###
+03:23:58.49 (5)  Connected to: (0)
+03:23:58.49 (5)  Downloading:
+03:23:58.49 (5)      Block 499 18.75%
+03:23:58.49 (5)      Block 671 37.5%
+03:23:58.49 (5)      Block 895 28.125%
+03:23:58.49 (5)      Block 1122 59.375%
+03:23:58.49 (5)      Block 1195 56.25%
+03:23:58.49 (5)  Blocks completed 2 / 1399
+03:23:58.49 (5)  Bytes received: 2097152
+03:23:58.49 (5)  Bytes sent: 0
+03:23:58.49 (5)  
+03:23:58.56 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:23:58.56 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:23:58.56 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:24:03.58 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:24:03.58 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:24:03.59 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:24:08.60 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:24:08.61 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:24:08.61 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:24:13.51 (5)  Total send: 167537986 (max: 134217728)
+03:24:13.54 (5)  Total receive: 2201540 (max: 134217728)
+03:24:13.54 (5)  Total TCP sockets: 1 (max: 32)
+03:24:13.54 (5)  Total UDP sockets: 0 (max: 32)
+03:24:13.54 (5)  Ports: 27951-27951
+03:24:13.54 (5)  No blacklist
+03:24:13.54 (5)  Local IP: unknown
+03:24:13.54 (5)  
+03:24:13.54 (5)  #### Summary (mem: 4625ko) ###
+03:24:13.54 (5)  Connected to: (0)
+03:24:13.54 (5)  Downloading:
+03:24:13.54 (5)      Block 499 18.75%
+03:24:13.54 (5)      Block 671 37.5%
+03:24:13.54 (5)      Block 895 28.125%
+03:24:13.55 (5)      Block 1122 59.375%
+03:24:13.55 (5)      Block 1195 56.25%
+03:24:13.55 (5)  Blocks completed 2 / 1399
+03:24:13.55 (5)  Bytes received: 2097152
+03:24:13.55 (5)  Bytes sent: 0
+03:24:13.55 (5)  
+03:24:13.86 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:24:13.86 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:24:13.86 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:24:18.59 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:24:18.59 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:24:18.59 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:24:23.60 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:24:23.60 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:24:23.60 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:24:28.49 (5)  Total send: 167537986 (max: 134217728)
+03:24:28.49 (5)  Total receive: 2201540 (max: 134217728)
+03:24:28.49 (5)  Total TCP sockets: 1 (max: 32)
+03:24:28.49 (5)  Total UDP sockets: 0 (max: 32)
+03:24:28.49 (5)  Ports: 27951-27951
+03:24:28.49 (5)  No blacklist
+03:24:28.49 (5)  Local IP: unknown
+03:24:28.49 (5)  
+03:24:28.49 (5)  #### Summary (mem: 4761ko) ###
+03:24:28.49 (5)  Connected to: (0)
+03:24:28.49 (5)  Downloading:
+03:24:28.49 (5)      Block 499 18.75%
+03:24:28.49 (5)      Block 671 37.5%
+03:24:28.49 (5)      Block 895 28.125%
+03:24:28.49 (5)      Block 1122 59.375%
+03:24:28.49 (5)      Block 1195 56.25%
+03:24:28.49 (5)  Blocks completed 2 / 1399
+03:24:28.49 (5)  Bytes received: 2097152
+03:24:28.49 (5)  Bytes sent: 0
+03:24:28.49 (5)  
+03:24:28.57 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:24:28.57 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:24:28.57 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:24:33.76 (5)  [splay.restricted_socket] >>>>>>>>>>>>    68    BitTorrent protocol
+03:24:33.76 (5)  [splay.restricted_socket] W: Send restricted (total: 167537986)
+03:24:33.77 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+03:24:36.95 (5)  END_LOG

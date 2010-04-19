@@ -1,0 +1,33 @@
+15:47:11.40 (1)  START_LOG
+15:47:11.44 (1)  >> Job settings:
+15:47:11.44 (1)  Ref: 4bc76677346dff1dfa805231e1639de5
+15:47:11.44 (1)  Name: 
+15:47:11.44 (1)  Description: 
+15:47:11.44 (1)  Disk:
+15:47:11.44 (1)  	max 512 files
+15:47:11.44 (1)  	max 32 file descriptors
+15:47:11.44 (1)  	max 67108864 size in bytes
+15:47:11.44 (1)  Mem 2097152 bytes of memory
+15:47:11.44 (1)  Network:
+15:47:11.44 (1)  	max 134217728/134217728 send/receive bytes
+15:47:11.44 (1)  	max 32 tcp sockets
+15:47:11.44 (1)  	ip 127.0.0.1
+15:47:11.44 (1)  	ports 33411-33411
+15:47:11.44 (1)  
+15:47:11.45 (1)  >> Into sandbox !!!
+15:47:11.45 (1)  > Memory: 143 ko
+15:47:11.45 (1)  > Checking sandbox...
+15:47:11.45 (1)     > passed
+15:47:11.45 (1)  
+15:47:16.45 (1)  hello
+15:47:21.45 (1)  hello
+15:47:26.46 (1)  hello
+15:47:31.45 (1)  hello
+15:47:36.46 (1)  hello
+15:47:41.45 (1)  hello
+15:47:46.45 (1)  hello
+15:47:51.46 (1)  hello
+15:47:56.46 (1)  hello
+15:48:01.46 (1)  hello
+15:48:01.46 (1)  End of jobd (C deamon)
+15:48:01.46 (1)  END_LOG

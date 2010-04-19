@@ -1,0 +1,22 @@
+22:54:28.04 (1)  START_LOG
+22:54:28.05 (1)  >> Job settings:
+22:54:28.05 (1)  Ref: ff873d17cf9cde36d6524d9a7dcb18ef
+22:54:28.05 (1)  Name: 
+22:54:28.05 (1)  Description: 
+22:54:28.05 (1)  Disk:
+22:54:28.05 (1)  	max 512 files
+22:54:28.05 (1)  	max 32 file descriptors
+22:54:28.05 (1)  	max 67108864 size in bytes
+22:54:28.05 (1)  Mem 2097152 bytes of memory
+22:54:28.05 (1)  Network:
+22:54:28.05 (1)  	max 134217728/134217728 send/receive bytes
+22:54:28.05 (1)  	max 32 tcp sockets
+22:54:28.05 (1)  	ip 127.0.0.1
+22:54:28.05 (1)  	ports 61650-61650
+22:54:28.05 (1)  
+22:54:28.15 (1)  >> Into sandbox !!!
+22:54:28.15 (1)  > Memory: 143 ko
+22:54:28.15 (1)  > Checking sandbox...
+22:54:28.15 (1)     > passed
+22:54:28.15 (1)  
+22:54:48.83 (1)  END_LOG

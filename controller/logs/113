@@ -1,0 +1,24 @@
+15:19:28.58 (1)  START_LOG
+15:19:28.60 (1)  >> Job settings:
+15:19:28.60 (1)  Ref: 3b965dc8a8a17133c787913ac5bb7de0
+15:19:28.60 (1)  Name: 
+15:19:28.61 (1)  Description: 
+15:19:28.61 (1)  Disk:
+15:19:28.61 (1)  	max 512 files
+15:19:28.61 (1)  	max 32 file descriptors
+15:19:28.61 (1)  	max 67108864 size in bytes
+15:19:28.61 (1)  Mem 2097152 bytes of memory
+15:19:28.61 (1)  Network:
+15:19:28.61 (1)  	max 134217728/134217728 send/receive bytes
+15:19:28.61 (1)  	max 32 tcp sockets
+15:19:28.61 (1)  	ip 127.0.0.1
+15:19:28.61 (1)  	ports 36122-36122
+15:19:28.61 (1)  
+15:19:28.65 (1)  >> Into sandbox !!!
+15:19:28.69 (1)  > Memory: 139 ko
+15:19:28.71 (1)  > Checking sandbox...
+15:19:28.71 (1)     > passed
+15:19:28.71 (1)  
+15:19:28.71 (1)  Error loading code:	[string "job code"]:233: ')' expected (to close '(' at line 21) near '<eof>'
+15:19:28.71 (1)  End of jobd (C deamon)
+15:19:28.71 (1)  END_LOG

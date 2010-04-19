@@ -1,0 +1,23 @@
+10:45:12.05 (1)  >> Job settings:
+10:45:12.05 (1)  Ref: 79c554e4b7b4bb3ae50215d21429d1a2
+10:45:12.05 (1)  Name: 
+10:45:12.05 (1)  Description: 
+10:45:12.05 (1)  Disk:
+10:45:12.05 (1)  	max 512 files
+10:45:12.05 (1)  	max 32 file descriptors
+10:45:12.05 (1)  	max 67108864 size in octets
+10:45:12.05 (1)  Mem 2097152 octets of memory
+10:45:12.05 (1)  Network:
+10:45:12.05 (1)  	max 134217728/134217728 send/receive octets
+10:45:12.05 (1)  	max 32 tcp sockets
+10:45:12.05 (1)  	ip 127.0.0.1
+10:45:12.05 (1)  	ports 15223-15223
+10:45:12.05 (1)  
+10:45:12.05 (1)  >> Into sandbox !!!
+10:45:12.05 (1)  > Memory: 130 ko
+10:45:12.05 (1)  > Checking sandbox...
+10:45:12.05 (1)     > passed
+10:45:12.05 (1)  
+10:45:12.05 (1)  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+10:45:12.05 (1)  C daemon: [string "job code"]:3: attempt to call global 'sleep' (a nil value)
+10:45:12.05 (1)  End of jobd (C deamon)

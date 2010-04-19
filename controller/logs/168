@@ -1,0 +1,31 @@
+23:23:41.16 (4)  START_LOG
+23:23:41.17 (4)  SPLAYD SCRIPT EXEC
+23:23:41.17 (4)  END_LOG
+23:23:41.23 (4)  START_LOG
+23:23:41.23 (4)  SPLAYD LUA EXEC
+23:23:41.23 (4)  >> Job settings:
+23:23:41.23 (4)  Ref: 09d18b9283cb1eb00e0d935a2d405d87
+23:23:41.23 (4)  Name: 
+23:23:41.23 (4)  Description: 
+23:23:41.23 (4)  Disk:
+23:23:41.23 (4)  	max 512 files
+23:23:41.23 (4)  	max 32 file descriptors
+23:23:41.23 (4)  	max 67108864 size in bytes
+23:23:41.23 (4)  Mem 2097152 bytes of memory
+23:23:41.23 (4)  Network:
+23:23:41.23 (4)  	max 134217728/134217728 send/receive bytes
+23:23:41.23 (4)  	max 32 tcp sockets
+23:23:41.23 (4)  	ip 127.0.0.1
+23:23:41.23 (4)  	ports 40378-40378
+23:23:41.23 (4)  
+23:23:41.23 (4)  >> Into sandbox !!!
+23:23:41.23 (4)  > Memory: 144 ko
+23:23:41.23 (4)  > Checking sandbox...
+23:23:41.23 (4)     > passed
+23:23:41.23 (4)  
+23:23:41.23 (4)  I'm 127.0.0.1:40378
+23:23:41.23 (4)  My position in the list is: 1
+23:23:41.23 (4)  List type is 'head' with 1 nodes
+23:23:46.23 (4)  I received an RPC from node 1
+23:23:46.23 (4)  Bye bye
+23:23:51.23 (4)  END_LOG

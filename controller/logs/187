@@ -1,0 +1,288 @@
+02:41:03.40 (5)  START_LOG
+02:41:03.42 (5)  SPLAYD LUA EXEC
+02:41:03.51 (5)  >> Job settings:
+02:41:03.51 (5)  Ref: d94417bd04c0f37d1d6ed2823fde1463
+02:41:03.51 (5)  Name: 
+02:41:03.51 (5)  Description: 
+02:41:03.51 (5)  Disk:
+02:41:03.51 (5)  	max 512 files
+02:41:03.51 (5)  	max 32 file descriptors
+02:41:03.51 (5)  	max 800000000 size in bytes
+02:41:03.51 (5)  Mem 10104033 bytes of memory
+02:41:03.51 (5)  Network:
+02:41:03.51 (5)  	max 134217728/134217728 send/receive bytes
+02:41:03.51 (5)  	max 32 tcp sockets
+02:41:03.51 (5)  	ip 127.0.0.1
+02:41:03.51 (5)  	ports 43848-43848
+02:41:03.51 (5)  
+02:41:03.52 (5)  >> Into sandbox !!!
+02:41:03.52 (5)  > Memory: 161 ko
+02:41:03.52 (5)  > Checking sandbox...
+02:41:03.52 (5)     > passed
+02:41:03.52 (5)  
+02:41:03.82 (5)  Tracker: http://torrent.ubuntu.com:6969/announce
+02:41:03.83 (5)  Total file size: 732989440
+02:41:03.83 (5)  Pieces size: 524288 (34816)
+02:41:04.01 (5)  Tracker interval: 1800 complete: 251 incomplete: 18
+02:41:04.02 (5)  203.59.174.13    6882
+02:41:04.02 (5)  62.111.140.254    60011
+02:41:04.02 (5)  68.184.37.243    6881
+02:41:04.02 (5)  134.109.108.96    8143
+02:41:04.02 (5)  24.206.104.96    51413
+02:41:04.02 (5)  190.55.105.49    39640
+02:41:04.02 (5)  99.227.85.156    11784
+02:41:04.02 (5)  92.48.118.6    34506
+02:41:04.02 (5)  24.222.214.24    41369
+02:41:04.02 (5)  64.62.190.244    6915
+02:41:04.02 (5)  134.114.39.226    37637
+02:41:04.02 (5)  85.25.59.29    6894
+02:41:04.02 (5)  189.25.3.124    54852
+02:41:04.02 (5)  189.68.141.202    49018
+02:41:19.01 (5)  Total send: 591 (max: 134217728)
+02:41:19.01 (5)  Total receive: 29149 (max: 134217728)
+02:41:19.01 (5)  Total TCP sockets: 3 (max: 32)
+02:41:19.01 (5)  Total UDP sockets: 0 (max: 32)
+02:41:19.01 (5)  Ports: 43848-43848
+02:41:19.01 (5)  No blacklist
+02:41:19.02 (5)  Local IP: unknown
+02:41:19.02 (5)  
+02:41:19.02 (5)  #### Summary (mem: 623ko) ###
+02:41:19.02 (5)  Connected to: (2)
+02:41:19.02 (5)      99.227.85.156:11784 choked (0-0)
+02:41:19.02 (5)      24.206.104.96:51413 choked (0-0)
+02:41:19.02 (5)  Downloading:
+02:41:19.02 (5)  Blocks completed 0 / 1399
+02:41:19.02 (5)  Bytes received: 0
+02:41:19.02 (5)  Bytes sent: 0
+02:41:19.02 (5)  
+02:41:32.39 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:41:34.02 (5)  Total send: 2314 (max: 134217728)
+02:41:34.02 (5)  Total receive: 1467694 (max: 134217728)
+02:41:34.02 (5)  Total TCP sockets: 4 (max: 32)
+02:41:34.02 (5)  Total UDP sockets: 0 (max: 32)
+02:41:34.02 (5)  Ports: 43848-43848
+02:41:34.02 (5)  No blacklist
+02:41:34.02 (5)  Local IP: unknown
+02:41:34.02 (5)  
+02:41:34.02 (5)  #### Summary (mem: 2446ko) ###
+02:41:34.02 (5)  Connected to: (3)
+02:41:34.02 (5)      24.206.104.96:51413 choked (0-0)
+02:41:34.02 (5)      99.227.85.156:11784 unchoked (0-0)
+02:41:34.02 (5)      85.25.59.29:6894 unchoked (1425408-0)
+02:41:34.02 (5)  Downloading:
+02:41:34.02 (5)      Block 828 71.875%
+02:41:34.02 (5)  Blocks completed 2 / 1399
+02:41:34.02 (5)  Bytes received: 1425408
+02:41:34.02 (5)  Bytes sent: 0
+02:41:34.02 (5)  
+02:41:45.72 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:41:49.01 (5)  Total send: 5933 (max: 134217728)
+02:41:49.02 (5)  Total receive: 4499121 (max: 134217728)
+02:41:49.02 (5)  Total TCP sockets: 6 (max: 32)
+02:41:49.02 (5)  Total UDP sockets: 0 (max: 32)
+02:41:49.02 (5)  Ports: 43848-43848
+02:41:49.02 (5)  No blacklist
+02:41:49.03 (5)  Local IP: unknown
+02:41:49.03 (5)  
+02:41:49.03 (5)  #### Summary (mem: 2110ko) ###
+02:41:49.03 (5)  Connected to: (5)
+02:41:49.04 (5)      190.55.105.49:39640 choked (0-0)
+02:41:49.04 (5)      85.25.59.29:6894 unchoked (4423680-0)
+02:41:49.04 (5)      24.206.104.96:51413 unchoked (0-0)
+02:41:49.04 (5)      99.227.85.156:11784 unchoked (16384-0)
+02:41:49.04 (5)      68.184.37.243:6881 unchoked (16384-0)
+02:41:49.05 (5)  Downloading:
+02:41:49.05 (5)      Block 270 3.125%
+02:41:49.05 (5)      Block 960 3.125%
+02:41:49.05 (5)      Block 1061 43.75%
+02:41:49.05 (5)  Blocks completed 8 / 1399
+02:41:49.06 (5)  Bytes received: 4456448
+02:41:49.06 (5)  Bytes sent: 0
+02:41:49.06 (5)  
+02:41:59.53 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:42:04.01 (5)  Total send: 10503 (max: 134217728)
+02:42:04.01 (5)  Total receive: 8379624 (max: 134217728)
+02:42:04.02 (5)  Total TCP sockets: 7 (max: 32)
+02:42:04.02 (5)  Total UDP sockets: 0 (max: 32)
+02:42:04.02 (5)  Ports: 43848-43848
+02:42:04.02 (5)  No blacklist
+02:42:04.02 (5)  Local IP: unknown
+02:42:04.02 (5)  
+02:42:04.02 (5)  #### Summary (mem: 3433ko) ###
+02:42:04.02 (5)  Connected to: (6)
+02:42:04.02 (5)      190.55.105.49:39640 choked (0-0)
+02:42:04.02 (5)      85.25.59.29:6894 unchoked (7618560-0)
+02:42:04.02 (5)      24.206.104.96:51413 unchoked (16384-0)
+02:42:04.02 (5)      92.48.118.6:34506 unchoked (524288-0)
+02:42:04.02 (5)      99.227.85.156:11784 unchoked (32768-0)
+02:42:04.02 (5)      68.184.37.243:6881 unchoked (147456-0)
+02:42:04.02 (5)  Downloading:
+02:42:04.02 (5)      Block 270 28.125%
+02:42:04.02 (5)      Block 802 53.125%
+02:42:04.03 (5)      Block 960 6.25%
+02:42:04.03 (5)  Blocks completed 15 / 1399
+02:42:04.03 (5)  Bytes received: 8339456
+02:42:04.03 (5)  Bytes sent: 0
+02:42:04.03 (5)  
+02:42:12.72 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:42:19.02 (5)  Total send: 15757 (max: 134217728)
+02:42:19.02 (5)  Total receive: 12888606 (max: 134217728)
+02:42:19.02 (5)  Total TCP sockets: 8 (max: 32)
+02:42:19.02 (5)  Total UDP sockets: 0 (max: 32)
+02:42:19.02 (5)  Ports: 43848-43848
+02:42:19.03 (5)  No blacklist
+02:42:19.03 (5)  Local IP: unknown
+02:42:19.03 (5)  
+02:42:19.03 (5)  #### Summary (mem: 2020ko) ###
+02:42:19.04 (5)  Connected to: (7)
+02:42:19.04 (5)      68.184.37.243:6881 unchoked (212992-0)
+02:42:19.04 (5)      85.25.59.29:6894 unchoked (10125312-0)
+02:42:19.04 (5)      24.206.104.96:51413 unchoked (32768-0)
+02:42:19.04 (5)      203.59.174.13:6882 choked (0-0)
+02:42:19.05 (5)      92.48.118.6:34506 unchoked (2424832-0)
+02:42:19.05 (5)      99.227.85.156:11784 unchoked (32768-0)
+02:42:19.05 (5)      190.55.105.49:39640 choked (0-0)
+02:42:19.05 (5)  Downloading:
+02:42:19.05 (5)      Block 25 3.125%
+02:42:19.06 (5)      Block 270 40.625%
+02:42:19.06 (5)      Block 416 62.5%
+02:42:19.06 (5)      Block 960 6.25%
+02:42:19.06 (5)      Block 1080 31.25%
+02:42:19.07 (5)  Blocks completed 23 / 1399
+02:42:19.07 (5)  Bytes received: 12828672
+02:42:19.07 (5)  Bytes sent: 0
+02:42:19.07 (5)  
+02:42:34.03 (5)  Total send: 20630 (max: 134217728)
+02:42:34.07 (5)  Total receive: 17086247 (max: 134217728)
+02:42:34.10 (5)  Total TCP sockets: 9 (max: 32)
+02:42:34.10 (5)  Total UDP sockets: 0 (max: 32)
+02:42:34.10 (5)  Ports: 43848-43848
+02:42:34.10 (5)  No blacklist
+02:42:34.10 (5)  Local IP: unknown
+02:42:34.10 (5)  
+02:42:34.10 (5)  #### Summary (mem: 1957ko) ###
+02:42:34.10 (5)  Connected to: (7)
+02:42:34.10 (5)      68.184.37.243:6881 unchoked (278528-0)
+02:42:34.10 (5)      85.25.59.29:6894 unchoked (12451840-0)
+02:42:34.10 (5)      24.206.104.96:51413 unchoked (49152-0)
+02:42:34.10 (5)      203.59.174.13:6882 unchoked (0-0)
+02:42:34.10 (5)      92.48.118.6:34506 unchoked (4210688-0)
+02:42:34.10 (5)      99.227.85.156:11784 unchoked (32768-0)
+02:42:34.10 (5)      190.55.105.49:39640 choked (0-0)
+02:42:34.10 (5)  Downloading:
+02:42:34.10 (5)      Block 25 6.25%
+02:42:34.10 (5)      Block 270 53.125%
+02:42:34.10 (5)      Block 960 6.25%
+02:42:34.10 (5)      Block 1039 3.125%
+02:42:34.10 (5)      Block 1372 75%
+02:42:34.10 (5)  Blocks completed 31 / 1399
+02:42:34.10 (5)  Bytes received: 17022976
+02:42:34.10 (5)  Bytes sent: 0
+02:42:34.10 (5)  
+02:42:38.67 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:42:38.67 (5)  W: Transmission problem with 134.114.39.226:37637
+02:42:39.65 (5)  [splay.restricted_socket] W: Send restricted (total: 166502292)
+02:42:39.68 (5)  [splay.restricted_socket] W: Send restricted (total: 166502292)
+02:42:39.69 (5)  [splay.restricted_socket] W: Send restricted (total: 166502292)
+02:42:39.69 (5)  [splay.restricted_socket] W: Send restricted (total: 166502292)
+02:42:39.69 (5)  [splay.restricted_socket] W: Send restricted (total: 166502292)
+02:42:39.69 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:42:39.69 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:42:39.69 (5)  W: Transmission problem with 85.25.59.29:6894
+02:42:39.69 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:42:39.69 (5)  W: Transmission problem with 99.227.85.156:11784
+02:42:39.69 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:42:39.69 (5)  W: Transmission problem with 92.48.118.6:34506
+02:42:39.69 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:42:39.69 (5)  W: Transmission problem with 203.59.174.13:6882
+02:42:39.69 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:42:39.69 (5)  W: Transmission problem with 68.184.37.243:6881
+02:42:39.69 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:42:39.69 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:42:39.69 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:42:39.69 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:42:39.69 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:42:40.94 (5)  [splay.restricted_socket] W: Send restricted (total: 166502292)
+02:42:40.94 (5)  W: Send thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:42:40.94 (5)  W: Transmission problem with 24.206.104.96:51413
+02:42:40.94 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:42:40.94 (5)  W: Receive thread:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: closed
+02:42:44.62 (5)  [splay.restricted_socket] W: Send restricted (total: 166502292)
+02:42:44.62 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:42:49.02 (5)  Total send: 166502292 (max: 134217728)
+02:42:49.02 (5)  Total receive: 19117088 (max: 134217728)
+02:42:49.02 (5)  Total TCP sockets: 2 (max: 32)
+02:42:49.02 (5)  Total UDP sockets: 0 (max: 32)
+02:42:49.02 (5)  Ports: 43848-43848
+02:42:49.02 (5)  No blacklist
+02:42:49.02 (5)  Local IP: unknown
+02:42:49.02 (5)  
+02:42:49.02 (5)  #### Summary (mem: 2135ko) ###
+02:42:49.02 (5)  Connected to: (1)
+02:42:49.02 (5)      190.55.105.49:39640 choked (0-0)
+02:42:49.03 (5)  Downloading:
+02:42:49.03 (5)      Block 25 9.375%
+02:42:49.03 (5)      Block 270 62.5%
+02:42:49.03 (5)      Block 876 50%
+02:42:49.03 (5)      Block 960 9.375%
+02:42:49.03 (5)  Blocks completed 35 / 1399
+02:42:49.03 (5)  Bytes received: 19054592
+02:42:49.03 (5)  Bytes sent: 0
+02:42:49.03 (5)  
+02:42:52.06 (5)  [splay.restricted_socket] W: Send restricted (total: 166502292)
+02:42:52.06 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:42:58.16 (5)  [splay.restricted_socket] W: Send restricted (total: 166502292)
+02:42:58.16 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:43:00.50 (5)  [splay.restricted_socket] W: Send restricted (total: 166502292)
+02:43:00.50 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:43:04.02 (5)  Total send: 166502292 (max: 134217728)
+02:43:04.02 (5)  Total receive: 19117088 (max: 134217728)
+02:43:04.02 (5)  Total TCP sockets: 2 (max: 32)
+02:43:04.02 (5)  Total UDP sockets: 0 (max: 32)
+02:43:04.02 (5)  Ports: 43848-43848
+02:43:04.02 (5)  No blacklist
+02:43:04.02 (5)  Local IP: unknown
+02:43:04.02 (5)  
+02:43:04.02 (5)  #### Summary (mem: 2269ko) ###
+02:43:04.02 (5)  Connected to: (1)
+02:43:04.02 (5)      190.55.105.49:39640 choked (0-0)
+02:43:04.02 (5)  Downloading:
+02:43:04.02 (5)      Block 25 9.375%
+02:43:04.02 (5)      Block 270 62.5%
+02:43:04.02 (5)      Block 876 50%
+02:43:04.02 (5)      Block 960 9.375%
+02:43:04.02 (5)  Blocks completed 35 / 1399
+02:43:04.02 (5)  Bytes received: 19054592
+02:43:04.02 (5)  Bytes sent: 0
+02:43:04.02 (5)  
+02:43:05.93 (5)  [splay.restricted_socket] W: Send restricted (total: 166502292)
+02:43:05.93 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:43:09.17 (5)  [splay.restricted_socket] W: Send restricted (total: 166502292)
+02:43:09.17 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:43:19.02 (5)  Total send: 166502292 (max: 134217728)
+02:43:19.02 (5)  Total receive: 19117088 (max: 134217728)
+02:43:19.02 (5)  Total TCP sockets: 2 (max: 32)
+02:43:19.02 (5)  Total UDP sockets: 0 (max: 32)
+02:43:19.02 (5)  Ports: 43848-43848
+02:43:19.03 (5)  No blacklist
+02:43:19.03 (5)  Local IP: unknown
+02:43:19.03 (5)  
+02:43:19.03 (5)  #### Summary (mem: 2360ko) ###
+02:43:19.03 (5)  Connected to: (1)
+02:43:19.03 (5)      190.55.105.49:39640 choked (0-0)
+02:43:19.03 (5)  Downloading:
+02:43:19.03 (5)      Block 25 9.375%
+02:43:19.03 (5)      Block 270 62.5%
+02:43:19.03 (5)      Block 876 50%
+02:43:19.03 (5)      Block 960 9.375%
+02:43:19.03 (5)  Blocks completed 35 / 1399
+02:43:19.03 (5)  Bytes received: 19054592
+02:43:19.03 (5)  Bytes sent: 0
+02:43:19.03 (5)  
+02:43:19.16 (5)  [splay.restricted_socket] W: Send restricted (total: 166502292)
+02:43:19.17 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:43:24.31 (5)  [splay.restricted_socket] W: Send restricted (total: 166502292)
+02:43:24.31 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:43:32.24 (5)  [splay.restricted_socket] W: Send restricted (total: 166502292)
+02:43:32.24 (5)  W: Init problem:    /home/leo/perso/doctorat/apps/share/splay/misc.lua:378: restricted
+02:43:33.39 (5)  END_LOG

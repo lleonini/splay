@@ -1,0 +1,24 @@
+16:27:46.82 (1)  START_LOG
+16:27:46.83 (1)  >> Job settings:
+16:27:46.83 (1)  Ref: ae19e12128a9b2a92c86b2b82ee23955
+16:27:46.83 (1)  Name: 
+16:27:46.83 (1)  Description: 
+16:27:46.83 (1)  Disk:
+16:27:46.83 (1)  	max 512 files
+16:27:46.83 (1)  	max 32 file descriptors
+16:27:46.83 (1)  	max 67108864 size in bytes
+16:27:46.83 (1)  Mem 2097152 bytes of memory
+16:27:46.83 (1)  Network:
+16:27:46.83 (1)  	max 134217728/134217728 send/receive bytes
+16:27:46.83 (1)  	max 32 tcp sockets
+16:27:46.83 (1)  	ip 127.0.0.1
+16:27:46.83 (1)  	ports 62496-62496
+16:27:46.83 (1)  
+16:27:46.83 (1)  >> Into sandbox !!!
+16:27:46.83 (1)  > Memory: 134 ko
+16:27:46.83 (1)  > Checking sandbox...
+16:27:46.83 (1)     > passed
+16:27:46.83 (1)  
+16:28:19.18 (1)  server
+16:28:42.38 (1)  [splay.restricted_socket] W: Send restricted
+19:03:35.80 (1)  END_LOG

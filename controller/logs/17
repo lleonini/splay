@@ -1,0 +1,10 @@
+22:03:53.46 (11)  START_LOG
+22:03:53.46 (11)  SPLAYD SCRIPT EXEC
+22:03:53.47 (11)  ## Binary test script ##
+22:03:53.47 (11)  
+22:03:53.47 (11)  IP: localhost
+22:03:53.47 (11)  Port: 11100
+22:03:53.47 (11)  Infos (json encoded): {"udp_drop_ratio":"0.00","nb_ports":1,"max_sockets":32,"list":{"nodes":[{"port":24513,"ip":"127.0.0.1"}],"type":"head","position":1},"max_send":134217728,"max_receive":134217728,"ip":"127.0.0.1"}
+22:03:53.47 (11)  
+22:04:03.47 (11)  Binary script end
+22:04:03.47 (11)  END_LOG

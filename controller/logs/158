@@ -1,0 +1,41 @@
+21:13:01.01 (4)  START_LOG
+21:13:01.01 (4)  SPLAYD SCRIPT EXEC
+21:13:01.03 (4)  START_LOG
+21:13:01.03 (4)  SPLAYD LUA EXEC
+21:13:01.03 (4)  >> Job settings:
+21:13:01.03 (4)  Ref: 9675a05fd1649750b0cb7c4b0ed59b4a
+21:13:01.03 (4)  Name: 
+21:13:01.03 (4)  Description: 
+21:13:01.03 (4)  Disk:
+21:13:01.03 (4)  	max 512 files
+21:13:01.03 (4)  	max 32 file descriptors
+21:13:01.03 (4)  	max 67108864 size in bytes
+21:13:01.03 (4)  Mem 2097152 bytes of memory
+21:13:01.03 (4)  Network:
+21:13:01.03 (4)  	max 134217728/134217728 send/receive bytes
+21:13:01.03 (4)  	max 32 tcp sockets
+21:13:01.03 (4)  	ip 127.0.0.1
+21:13:01.03 (4)  	ports 17835-17835
+21:13:01.03 (4)  
+21:13:01.03 (4)  hella
+21:13:01.04 (4)  >> Into sandbox !!!
+21:13:01.04 (4)  > Memory: 143 ko
+21:13:01.04 (4)  > Checking sandbox...
+21:13:01.04 (4)     > passed
+21:13:01.04 (4)  
+21:13:01.04 (4)  SPLAYD LUA END
+21:13:01.04 (4)  END_LOG
+21:13:02.04 (4)  hella
+21:13:03.04 (4)  hella
+21:13:04.04 (4)  hella
+21:13:05.04 (4)  hella
+21:13:06.05 (4)  hella
+21:13:07.05 (4)  hella
+21:13:08.05 (4)  hella
+21:13:09.05 (4)  hella
+21:13:10.05 (4)  hella
+21:13:11.05 (4)  hella
+21:13:12.05 (4)  hella
+21:13:13.06 (4)  hella
+21:13:14.06 (4)  hella
+21:13:15.06 (4)  hella

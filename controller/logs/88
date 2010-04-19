@@ -1,0 +1,60 @@
+12:21:24.23 (3)  START_LOG
+12:21:24.27 (3)  >> Job settings:
+12:21:24.27 (3)  Ref: bec915586a8d1da8f20a1e28e04f2fbc
+12:21:24.27 (3)  Name: 
+12:21:24.27 (3)  Description: 
+12:21:24.27 (3)  Disk:
+12:21:24.27 (3)  	max 512 files
+12:21:24.27 (3)  	max 32 file descriptors
+12:21:24.27 (3)  	max 67108864 size in bytes
+12:21:24.27 (3)  Mem 2097152 bytes of memory
+12:21:24.27 (3)  Network:
+12:21:24.27 (3)  	max 134217728/134217728 send/receive bytes
+12:21:24.27 (3)  	max 32 tcp sockets
+12:21:24.27 (3)  	ip 127.0.0.1
+12:21:24.27 (3)  	ports 51224-51224
+12:21:24.27 (3)  
+12:21:24.28 (3)  >> Into sandbox !!!
+12:21:24.28 (3)  > Memory: 131 ko
+12:21:24.28 (3)  > Checking sandbox...
+12:21:24.28 (3)     > passed
+12:21:24.28 (3)  
+12:21:24.29 (3)  START
+12:21:24.29 (3)  > Job list
+12:21:24.29 (3)  My position is: 2
+12:21:24.29 (3)  > All jobs list:
+12:21:24.29 (3)  Slave 1 ip: 127.0.0.1 (61406)
+12:21:24.29 (3)  Slave 2 ip: 127.0.0.1 (51224)
+12:21:24.29 (3)  [splay.events] E: Coroutine internal error: [string "job code"]:23: attempt to call field 'write' (a nil value)
+12:21:24.29 (3)  End of jobd (C deamon)
+12:21:24.29 (3)  END_LOG
+12:21:24.74 (1)  START_LOG
+12:21:24.77 (1)  >> Job settings:
+12:21:24.77 (1)  Ref: bec915586a8d1da8f20a1e28e04f2fbc
+12:21:24.77 (1)  Name: 
+12:21:24.77 (1)  Description: 
+12:21:24.77 (1)  Disk:
+12:21:24.77 (1)  	max 512 files
+12:21:24.77 (1)  	max 32 file descriptors
+12:21:24.77 (1)  	max 67108864 size in bytes
+12:21:24.77 (1)  Mem 2097152 bytes of memory
+12:21:24.77 (1)  Network:
+12:21:24.77 (1)  	max 134217728/134217728 send/receive bytes
+12:21:24.77 (1)  	max 32 tcp sockets
+12:21:24.77 (1)  	ip 127.0.0.1
+12:21:24.77 (1)  	ports 61406-61406
+12:21:24.77 (1)  
+12:21:24.78 (1)  >> Into sandbox !!!
+12:21:24.78 (1)  > Memory: 131 ko
+12:21:24.78 (1)  > Checking sandbox...
+12:21:24.78 (1)     > passed
+12:21:24.79 (1)  
+12:21:24.79 (1)  START
+12:21:24.79 (1)  > Job list
+12:21:24.79 (1)  My position is: 1
+12:21:24.79 (1)  > All jobs list:
+12:21:24.79 (1)  Slave 1 ip: 127.0.0.1 (61406)
+12:21:24.79 (1)  Slave 2 ip: 127.0.0.1 (51224)
+12:21:24.79 (1)  [splay.events] E: Coroutine internal error: [string "job code"]:23: attempt to call field 'write' (a nil value)
+12:21:24.79 (1)  End of jobd (C deamon)
+12:21:24.79 (1)  END_LOG

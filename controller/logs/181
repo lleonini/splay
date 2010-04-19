@@ -1,0 +1,25 @@
+02:28:56.82 (4)  START_LOG
+02:28:56.84 (4)  SPLAYD LUA EXEC
+02:28:57.02 (4)  >> Job settings:
+02:28:57.02 (4)  Ref: 99f2e014b03995ee9985e0f4cfa17af8
+02:28:57.02 (4)  Name: 
+02:28:57.02 (4)  Description: 
+02:28:57.02 (4)  Disk:
+02:28:57.02 (4)  	max 512 files
+02:28:57.02 (4)  	max 32 file descriptors
+02:28:57.02 (4)  	max 67108864 size in bytes
+02:28:57.02 (4)  Mem 8104033 bytes of memory
+02:28:57.02 (4)  Network:
+02:28:57.02 (4)  	max 134217728/134217728 send/receive bytes
+02:28:57.02 (4)  	max 32 tcp sockets
+02:28:57.02 (4)  	ip 127.0.0.1
+02:28:57.02 (4)  	ports 41345-41345
+02:28:57.02 (4)  
+02:28:57.03 (4)  >> Into sandbox !!!
+02:28:57.03 (4)  > Memory: 161 ko
+02:28:57.03 (4)  > Checking sandbox...
+02:28:57.03 (4)     > passed
+02:28:57.03 (4)  
+02:28:57.11 (4)  E: Bittorrent file can't be received.
+02:28:57.11 (4)  SPLAYD LUA END
+02:28:57.11 (4)  END_LOG

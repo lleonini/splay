@@ -1,0 +1,24 @@
+23:38:48.30 (4)  START_LOG
+23:38:48.31 (4)  SPLAYD LUA EXEC
+23:38:48.31 (4)  >> Job settings:
+23:38:48.31 (4)  Ref: 33ec2bf54ae929c2b1a70a4a28d340d9
+23:38:48.31 (4)  Name: 
+23:38:48.31 (4)  Description: 
+23:38:48.31 (4)  Disk:
+23:38:48.31 (4)  	max 512 files
+23:38:48.31 (4)  	max 32 file descriptors
+23:38:48.31 (4)  	max 67108864 size in bytes
+23:38:48.31 (4)  Mem 2097152 bytes of memory
+23:38:48.31 (4)  Network:
+23:38:48.31 (4)  	max 134217728/134217728 send/receive bytes
+23:38:48.31 (4)  	max 32 tcp sockets
+23:38:48.31 (4)  	ip 127.0.0.1
+23:38:48.31 (4)  	ports 44695-44695
+23:38:48.31 (4)  
+23:38:48.32 (4)  >> Into sandbox !!!
+23:38:48.32 (4)  > Memory: 143 ko
+23:38:48.32 (4)  > Checking sandbox...
+23:38:48.32 (4)     > passed
+23:38:48.32 (4)  
+23:38:48.32 (4)  SPLAYD LUA END
+23:38:48.32 (4)  END_LOG

@@ -1,0 +1,26 @@
+15:16:25.71 (1)  START_LOG
+15:16:25.72 (1)  >> Job settings:
+15:16:25.72 (1)  Ref: aa26a6e8c5273553156b63660f8c643a
+15:16:25.72 (1)  Name: 
+15:16:25.72 (1)  Description: 
+15:16:25.72 (1)  Disk:
+15:16:25.72 (1)  	max 512 files
+15:16:25.72 (1)  	max 32 file descriptors
+15:16:25.72 (1)  	max 67108864 size in bytes
+15:16:25.72 (1)  Mem 2097152 bytes of memory
+15:16:25.72 (1)  Network:
+15:16:25.72 (1)  	max 134217728/134217728 send/receive bytes
+15:16:25.72 (1)  	max 32 tcp sockets
+15:16:25.72 (1)  	ip 127.0.0.1
+15:16:25.72 (1)  	ports 34108-34109
+15:16:25.72 (1)  
+15:16:25.73 (1)  >> Into sandbox !!!
+15:16:25.73 (1)  > Memory: 132 ko
+15:16:25.73 (1)  > Checking sandbox...
+15:16:25.73 (1)     > passed
+15:16:25.73 (1)  
+15:16:25.73 (1)  [splay.sandbox] W: Require of debug refused
+15:16:25.84 (1)  OK
+15:16:25.84 (1)  OK
+15:16:26.02 (1)  [splay.events] E: Coroutine internal error: ...ome/leo/perso/doctorat/apps/share/splay/coxpcall.lua:28: attempt to index upvalue 'debug' (a nil value)
+18:54:34.78 (1)  END_LOG
